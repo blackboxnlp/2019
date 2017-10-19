@@ -13,6 +13,6 @@ Neural networks have rapidly become a central component in NLP systems in the la
 - Proposing modifications to neural network architectures that can make them more interpretable (e.g., Palanki et al., 2017);
 - Scaling up neural network analysis techniques developed in the connectionist literature in the 1990s (Elman, 1991);
 - Testing whether interpretable information can be decoded from intermediate representations (e.g., Adi et al.,  2017; Chrupała et al., 2017);
-- Translating insights on neural networks interpretation from the vision domain (e.g., Zeiler \& Fergus, 2014) to language.
+- Translating insights on neural networks interpretation from the vision domain (e.g., Zeiler & Fergus, 2014) to language.
 
 In addition to full papers, we will encourage the submission of non-archival extended abstracts; we thus foresee the reviewing load to be quite light: one full paper, or 2-3 abstracts, per program committee member.
