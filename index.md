@@ -15,7 +15,7 @@ Neural networks have rapidly become a central component in NLP systems in the la
 - Testing whether interpretable information can be decoded from intermediate representations (e.g., Adi et al.,  2017; Chrupała et al., 2017);
 - Translating insights on neural networks interpretation from the vision domain (e.g., Zeiler & Fergus, 2014) to language.
 
-In addition to full papers, we will encourage the submission of non-archival extended abstracts; we thus foresee the reviewing load to be quite light: one full paper, or 2-3 abstracts, per program committee member.
+In addition to full papers, we will encourage the submission of non-archival extended abstracts.
 
 ## Organizers
 
