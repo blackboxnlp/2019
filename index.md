@@ -16,3 +16,11 @@ Neural networks have rapidly become a central component in NLP systems in the la
 - Translating insights on neural networks interpretation from the vision domain (e.g., Zeiler & Fergus, 2014) to language.
 
 In addition to full papers, we will encourage the submission of non-archival extended abstracts; we thus foresee the reviewing load to be quite light: one full paper, or 2-3 abstracts, per program committee member.
+
+## Organizers
+
+**Tal Linzen** is an Assistant Professor of Cognitive Science at Johns Hopkins University. He develops computational cognitive models of language. In addition to his work in psycholinguistics and cognitive neuroscience, he has studied the syntactic capabilities of contemporary artificial neural networks and the linguistic information encoded in word embeddings, in work that has appeared in TACL, EACL and CoNLL. He has co-organized the workshop on Cognitive Modeling and Computational Linguistics which was co-located with EACL 2017, and is co-organizing the next installation of the same workshop at the Society for Computation in Linguistics in January 2018.
+
+**Afra Alishahi** is an Associate Professor of Cognitive Science and Artificial Intelligence at Tilburg University, the Netherlands. Her main research interest is developing computational models for studying the process of human language acquisition. Recently she has been studying the emergence of linguistic structure in grounded models of language learning. She has chaired CoNLL 2015, and organized the EACL Workshop on Cognitive Aspects of Computational Language Acquisition in 2009.
+
+**Grzegorz Chrupała** is an Assistant Professor at the Department of Cognitive Science and Artificial Intelligence at Tilburg University. His recent research focus has been on computational models of language learning  from multimodal signals such as speech and vision and on the analysis of linguistic representations emerging in multilayer recurrent neural networks. He was Area Co-Chair for Machine Learning at ACL 2017.
