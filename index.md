@@ -10,7 +10,7 @@ Neural networks have rapidly become a central component in NLP systems in the la
 - Applying analysis techniques from neuroscience to analyze high-dimensional vector representations (such as Haxby et al., 2001; Kriegeskorte, 2008) in artificial neural networks;
 - Analyzing the network's response to strategically chosen inputs in order to infer the linguistic generalizations that the network has acquired (e.g., Linzen et al., 2016);
 - Examining the performance of the network on simplified or formal languages;
-- Proposing modifications to neural network architectures that can make them more interpretable (e.g., Palanki et al., 2017);
+- Proposing modifications to neural network architectures that can make them more interpretable (e.g., Palangi et al., 2017);
 - Scaling up neural network analysis techniques developed in the connectionist literature in the 1990s (Elman, 1991);
 - Testing whether interpretable information can be decoded from intermediate representations (e.g., Adi et al.,  2017; Chrupała et al., 2017);
 - Translating insights on neural networks interpretation from the vision domain (e.g., Zeiler & Fergus, 2014) to language.
