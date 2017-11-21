@@ -3,6 +3,11 @@
 *Revealing the content of the neural black box: workshop on the analysis and interpretation of neural networks for Natural Language Processing.*
 
 
+## Venue and date
+
+The workshop will be collocated with EMNLP 2018 in Brussels. 
+The workshops will be held on October 31 and November 1.
+
 ## Description
 Neural networks have rapidly become a central component in NLP systems in the last few years. The improvement in accuracy and performance brought by the introduction of neural networks has typically come at the cost of our understanding of the system: what are the representations and computations that the network learns? The goal of this workshop is to bring together people who are attempting to peek inside the neural network black box, taking inspiration from machine learning, psychology, linguistics and neuroscience. The topics of the workshop will include, but are not limited to:
 
@@ -16,6 +21,7 @@ Neural networks have rapidly become a central component in NLP systems in the la
 - Translating insights on neural networks interpretation from the vision domain (e.g., Zeiler & Fergus, 2014) to language.
 
 In addition to full papers, we will encourage the submission of non-archival extended abstracts.
+
 
 ## Organizers
 
