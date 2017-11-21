@@ -22,6 +22,9 @@ Neural networks have rapidly become a central component in NLP systems in the la
 
 In addition to full papers, we will encourage the submission of non-archival extended abstracts.
 
+## Invited Speakers
+
+TBA
 
 ## Organizers
 
