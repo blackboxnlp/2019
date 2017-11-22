@@ -9,7 +9,7 @@ The workshop will be collocated with EMNLP 2018 in Brussels.
 The workshops will be held on October 31 and November 1.
 
 ## Description
-Neural networks have rapidly become a central component in NLP systems in the last few years. The improvement in accuracy and performance brought by the introduction of neural networks has typically come at the cost of our understanding of the system: what are the representations and computations that the network learns? The goal of this workshop is to bring together people who are attempting to peek inside the neural network black box, taking inspiration from machine learning, psychology, linguistics and neuroscience. The topics of the workshop will include, but are not limited to:
+Neural networks have rapidly become a central component in language and speech understanding systems in the last few years. The improvements in accuracy and performance brought by the introduction of neural networks has typically come at the cost of our understanding of the system: what are the representations and computations that the network learns? The goal of this workshop is to bring together people who are attempting to peek inside the neural network black box, taking inspiration from machine learning, psychology, linguistics and neuroscience. The topics of the workshop will include, but are not limited to:
 
 
 - Applying analysis techniques from neuroscience to analyze high-dimensional vector representations (such as Haxby et al., 2001; Kriegeskorte, 2008) in artificial neural networks;
