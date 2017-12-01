@@ -1,5 +1,3 @@
-# Analyzing and interpreting neural networks for NLP
-
 ## Venue and date
 
 The workshop will be collocated with EMNLP 2018 in Brussels. 
