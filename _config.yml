@@ -1,6 +1,5 @@
 theme: jekyll-theme-dinky
-title: BlackboxNLP
-description: "Revealing the content of the neural black box: workshop on the analysis and interpretation of neural networks for Natural Language Processing."
+title: "Analyzing and interpreting neural networks for NLP"
 show_downloads: false
 
 
