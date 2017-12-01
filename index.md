@@ -33,3 +33,5 @@ TBA
 **[Afra Alishahi](https://ilk.uvt.nl/~aalishah/)** is an Associate Professor of Cognitive Science and Artificial Intelligence at Tilburg University, the Netherlands. Her main research interest is developing computational models for studying the process of human language acquisition. Recently she has been studying the emergence of linguistic structure in grounded models of language learning. She has chaired CoNLL 2015, and organized the EACL Workshop on Cognitive Aspects of Computational Language Acquisition in 2009.
 
 **[Grzegorz Chrupała](http://grzegorz.chrupala.me)** is an Assistant Professor at the Department of Cognitive Science and Artificial Intelligence at Tilburg University. His recent research focus has been on computational models of language learning  from multimodal signals such as speech and vision and on the analysis of linguistic representations emerging in multilayer recurrent neural networks. He was Area Co-Chair for Machine Learning at ACL 2017.
+
+## Sponsors
