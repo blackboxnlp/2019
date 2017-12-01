@@ -35,3 +35,7 @@ TBA
 **[Grzegorz Chrupała](http://grzegorz.chrupala.me)** is an Assistant Professor at the Department of Cognitive Science and Artificial Intelligence at Tilburg University. His recent research focus has been on computational models of language learning  from multimodal signals such as speech and vision and on the analysis of linguistic representations emerging in multilayer recurrent neural networks. He was Area Co-Chair for Machine Learning at ACL 2017.
 
 ## Sponsors
+
+<img src="Amazon-logo-RGB.png">
+
+
