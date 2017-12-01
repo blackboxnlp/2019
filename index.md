@@ -31,6 +31,6 @@ TBA
 
 ## Sponsors
 
-<img src="Amazon-logo-RGB.png">
+<img src="Amazon-logo-RGB.png" width="200px">
 
 
