@@ -19,8 +19,8 @@ In addition to full papers, we will encourage the submission of non-archival ext
 
 ## Invited Speakers
 
-### <img src="http://www.cs.cmu.edu/~lwehbe/pic01.jpg" width="100px"> Leila Wehbe  
-[Leila Wehbe](http://www.cs.cmu.edu/~lwehbe/) is a postdoctoral researcher at the Gallant Lab in the Helen Wills Neuroscience Institute at UC Berkeley. Previously, she obtained her PhD from the Machine Learning Department and the Center for the Neural Basis of Cognition at Carnegie Mellon University, where she worked with Tom Mitchell. She works on studying language representations in the brain when subjects engage in naturalistic language tasks. She combines functional neuroimaging with natural language processing and machine learning tools to build spatiotemporal maps of the information represented in the brain during language processing.
+###  Leila Wehbe  
+<img src="http://www.cs.cmu.edu/~lwehbe/pic01.jpg" width="100px"> [Leila Wehbe](http://www.cs.cmu.edu/~lwehbe/) is a postdoctoral researcher at the Gallant Lab in the Helen Wills Neuroscience Institute at UC Berkeley. Previously, she obtained her PhD from the Machine Learning Department and the Center for the Neural Basis of Cognition at Carnegie Mellon University, where she worked with Tom Mitchell. She works on studying language representations in the brain when subjects engage in naturalistic language tasks. She combines functional neuroimaging with natural language processing and machine learning tools to build spatiotemporal maps of the information represented in the brain during language processing.
 
 ### TBA
 
