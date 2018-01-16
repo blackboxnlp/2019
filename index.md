@@ -24,7 +24,10 @@ In addition to full papers, we will encourage the submission of non-archival ext
 
 [Leila Wehbe](http://www.cs.cmu.edu/~lwehbe/) is a postdoctoral researcher at the Gallant Lab in the Helen Wills Neuroscience Institute at UC Berkeley. Previously, she obtained her PhD from the Machine Learning Department and the Center for the Neural Basis of Cognition at Carnegie Mellon University, where she worked with Tom Mitchell. She works on studying language representations in the brain when subjects engage in naturalistic language tasks. She combines functional neuroimaging with natural language processing and machine learning tools to build spatiotemporal maps of the information represented in the brain during language processing.
 
-### TBA
+### Graham Neubig
+<img src="http://www.phontron.com/images/neubig-headshot-2016-small.jpg" width="100px"> 
+
+[Graham Neubig](http://www.phontron.com/) is an assistant professor at the Language Technologies Intitute of Carnegie Mellon University. His work focuses on natural language processing, specifically multi-lingual models that work in many different languages, and natural language interfaces that allow humans to communicate with computers in their own language. Much of this work relies on machine learning to create these systems from data, and he is also active in developing methods and algorithms for machine learning over natural language data. He publishes regularly in the top venues in natural language processing, machine learning, and speech, and his work occasionally wins awards such as best papers at EMNLP, EACL, and WNMT. He is also active in developing open-source software, and is the main developer of the DyNet neural network toolkit.
 
 ### TBA
 
