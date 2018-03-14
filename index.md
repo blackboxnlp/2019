@@ -47,7 +47,7 @@ In addition to full papers, we will encourage the submission of non-archival ext
 learning from multimodal signals such as speech and vision and on the
 analysis and interpretability of representations emerging in
 multilayer recurrent neural networks.  He was area co-chair for machine
-learning at ACL 2017 is general chair for Benelearn 2018.
+learning at ACL 2017, and is general chair for Benelearn 2018.
 
 ## Sponsors
 
