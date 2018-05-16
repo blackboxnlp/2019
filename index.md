@@ -21,7 +21,18 @@ Neural networks have rapidly become a central component in language and speech u
 - Testing whether interpretable information can be decoded from intermediate representations (e.g., Adi et al.,  2017; Chrupała et al., 2017);
 - Translating insights on neural networks interpretation from the vision domain (e.g., Zeiler & Fergus, 2014) to language.
 
-In addition to full papers, we will encourage the submission of non-archival extended abstracts.
+##  Submission types
+
+- Archival papers. These are papers reporting on completed, original and unpublished research, with maximum length of 8 pages + references. Papers shorter than this maximum are also welcome. Accepted papers are expected to be presented at the workshop and will be published in the workshop proceedings. They should report on obtained results rather than intended work. These papers will undergo double-blind peer-review, and should thus be anonymized.
+
+- Extended abstracts. These may report on work in progress or may be cross submissions that have already appeared in a non-NLP venue. The extended abstracts are of maximum 2 pages + references. These submissions are non-archival in order to allow submission to another venue. The selection will not be based on a double-blind review and thus submissions of this type need not be anonymized.
+
+Both categories of submissions should use EMNLP 2018 templates:
+
+- Latex: http://emnlp2018.org/downloads/emnlp18-latex.zip
+- Word: http://emnlp2018.org/downloads/emnlp18-word.zip 
+
+Both papers and abstracts should be submitted via softconf: https://www.softconf.com/emnlp2018/BlackboxNLP/
 
 ## Invited Speakers
 
@@ -36,6 +47,10 @@ In addition to full papers, we will encourage the submission of non-archival ext
 [Graham Neubig](http://www.phontron.com/) is an assistant professor at the Language Technologies Intitute of Carnegie Mellon University. His work focuses on natural language processing, specifically multi-lingual models that work in many different languages, and natural language interfaces that allow humans to communicate with computers in their own language. Much of this work relies on machine learning to create these systems from data, and he is also active in developing methods and algorithms for machine learning over natural language data. He publishes regularly in the top venues in natural language processing, machine learning, and speech, and his work occasionally wins awards such as best papers at EMNLP, EACL, and WNMT. He is also active in developing open-source software, and is the main developer of the DyNet neural network toolkit.
 
 ### TBA
+
+
+
+
 
 ## Organizers
 
