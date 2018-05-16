@@ -29,10 +29,10 @@ Neural networks have rapidly become a central component in language and speech u
 
 Both categories of submissions should use EMNLP 2018 templates:
 
-- Latex: http://emnlp2018.org/downloads/emnlp18-latex.zip
-- Word: http://emnlp2018.org/downloads/emnlp18-word.zip 
+- Latex: [http://emnlp2018.org/downloads/emnlp18-latex.zip](http://emnlp2018.org/downloads/emnlp18-latex.zip)
+- Word: [http://emnlp2018.org/downloads/emnlp18-word.zip](http://emnlp2018.org/downloads/emnlp18-word.zip)
 
-Both papers and abstracts should be submitted via softconf: https://www.softconf.com/emnlp2018/BlackboxNLP/
+Both papers and abstracts should be submitted via softconf: [https://www.softconf.com/emnlp2018/BlackboxNLP/](https://www.softconf.com/emnlp2018/BlackboxNLP/)
 
 ## Invited Speakers
 
