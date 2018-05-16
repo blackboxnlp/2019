@@ -58,11 +58,8 @@ Both papers and abstracts should be submitted via softconf: [https://www.softcon
 
 **[Afra Alishahi](https://ilk.uvt.nl/~aalishah/)** is an Associate Professor of Cognitive Science and Artificial Intelligence at Tilburg University, the Netherlands. Her main research interest is developing computational models for studying the process of human language acquisition. Recently she has been studying the emergence of linguistic structure in grounded models of language learning. She has chaired CoNLL 2015, and organized the EACL Workshop on Cognitive Aspects of Computational Language Acquisition in 2009.
 
-**[Grzegorz Chrupała](http://grzegorz.chrupala.me)** is an Assistant Professor at the Department of Cognitive Science and Artificial Intelligence at Tilburg University. His recent research focus has been on computational models of language
-learning from multimodal signals such as speech and vision and on the
-analysis and interpretability of representations emerging in
-multilayer recurrent neural networks.  He was area co-chair for machine
-learning at ACL 2017, and is general chair for Benelearn 2018.
+**[Grzegorz Chrupała](http://grzegorz.chrupala.me)** is an Assistant Professor at the Department of Cognitive Science and Artificial Intelligence at Tilburg University. His recent research focus has been on computational models of language learning from multimodal signals such as speech and vision and on the analysis and interpretability of representations emerging in multilayer recurrent neural networks. He regularly serves on program committees of major NLP and AI conferences, workshops and journals. He was area co-chair for Machine Learning at ACL 2017, for Discourse and Dialogue, Summarization and Generation, and Multimodal NLP and Speech at EMNLP 2018, and general chair for Benelearn 2018.
+
 
 ## Sponsors
 
