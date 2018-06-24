@@ -46,7 +46,11 @@ Both papers and abstracts should be submitted via softconf: [https://www.softcon
 
 [Graham Neubig](http://www.phontron.com/) is an assistant professor at the Language Technologies Intitute of Carnegie Mellon University. His work focuses on natural language processing, specifically multi-lingual models that work in many different languages, and natural language interfaces that allow humans to communicate with computers in their own language. Much of this work relies on machine learning to create these systems from data, and he is also active in developing methods and algorithms for machine learning over natural language data. He publishes regularly in the top venues in natural language processing, machine learning, and speech, and his work occasionally wins awards such as best papers at EMNLP, EACL, and WNMT. He is also active in developing open-source software, and is the main developer of the DyNet neural network toolkit.
 
-### TBA
+### Yoav Goldberg
+<img src="https://www.cs.bgu.ac.il/~yoavg/uni/me.jpg" width="100px">
+
+[Yoav Goldberg](http://u.cs.biu.ac.il/~yogo/) is a Senior Lecturer at Bar Ilan University's Computer Science Department. Before that, he was  a Research Scientist at Google Research New York.
+He works on problems related to Natural Language Processing and Machine Learning. In particular he is interested in syntactic parsing, structured-prediction models, learning for greedy decoding algorithms, multilingual language understanding, and cross domain learning. Lately, he is also interested in neural network based methods for NLP. He recently published a book on the subject. 
 
 
 
