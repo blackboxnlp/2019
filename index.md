@@ -5,7 +5,7 @@ The workshops will be held on October 31 and November 1.
 
 ## Important dates
 
-- July 13. Submission deadline.
+- July 19. Submission deadline.
 - August 3. Notification of acceptance.
 - October 31 or November 1. Workshop.
 
