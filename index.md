@@ -34,6 +34,12 @@ Both categories of submissions should use EMNLP 2018 templates:
 
 Both papers and abstracts should be submitted via softconf: [https://www.softconf.com/emnlp2018/BlackboxNLP/](https://www.softconf.com/emnlp2018/BlackboxNLP/)
 
+Accepted submissions will be presented at the workshop: most as posters, some as oral presentations (determined by the program committee).
+
+### Dual submissions
+
+Dual submissions of archival papers with EMNLP (or another conference) are allowed. Please declare them in the submission form, and let us know as soon as possible if you decide to withdraw a paper accepted elsewhere. Also please consider that dual submissions increase reviewing burden for the whole community.
+
 ## Invited Speakers
 
 ###  Leila Wehbe  
@@ -51,9 +57,6 @@ Both papers and abstracts should be submitted via softconf: [https://www.softcon
 
 [Yoav Goldberg](http://u.cs.biu.ac.il/~yogo/) is a Senior Lecturer at Bar Ilan University's Computer Science Department. Before that, he was  a Research Scientist at Google Research New York.
 He works on problems related to Natural Language Processing and Machine Learning. In particular he is interested in syntactic parsing, structured-prediction models, learning for greedy decoding algorithms, multilingual language understanding, and cross domain learning. Lately, he is also interested in neural network based methods for NLP. He recently published a book on the subject. 
-
-
-
 
 
 ## Organizers
