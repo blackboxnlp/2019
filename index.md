@@ -38,7 +38,7 @@ Accepted submissions will be presented at the workshop: most as posters, some as
 
 ### Dual submissions
 
-Dual submissions of archival papers with EMNLP (or another conference) are allowed. Please declare them in the submission form, and let us know as soon as possible if you decide to withdraw a paper accepted elsewhere. Also please consider that dual submissions increase reviewing burden for the whole community.
+Dual submissions of archival papers with EMNLP (or another conference) are allowed. Please let us know as soon as possible if you decide to withdraw a paper accepted elsewhere. Also please consider that dual submissions increase reviewing burden for the whole community.
 
 ## Invited Speakers
 
