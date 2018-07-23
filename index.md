@@ -72,4 +72,4 @@ He works on problems related to Natural Language Processing and Machine Learning
 
 <img src="Amazon-logo-RGB.png" width="200px">
 
-Department of Cognitive Science, Johns Hopkins University
+* Department of Cognitive Science, Johns Hopkins University
