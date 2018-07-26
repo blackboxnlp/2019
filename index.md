@@ -120,6 +120,7 @@ He works on problems related to Natural Language Processing and Machine Learning
 
 ## Sponsors
 
-* Department of Cognitive Science, Johns Hopkins University
-* <img src="Amazon-logo-RGB.png" width="200px">
+Department of Cognitive Science, Johns Hopkins University
+
+<img src="Amazon-logo-RGB.png" width="200px">
 
