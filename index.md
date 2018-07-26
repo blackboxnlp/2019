@@ -67,6 +67,56 @@ He works on problems related to Natural Language Processing and Machine Learning
 
 **[Grzegorz Chrupała](http://grzegorz.chrupala.me)** is an Assistant Professor at the Department of Cognitive Science and Artificial Intelligence at Tilburg University. His recent research focus has been on computational models of language learning from multimodal signals such as speech and vision and on the analysis and interpretability of representations emerging in multilayer recurrent neural networks. He regularly serves on program committees of major NLP and AI conferences, workshops and journals. He was area co-chair for Machine Learning at ACL 2017, for Discourse and Dialogue, Summarization and Generation, and Multimodal NLP and Speech at EMNLP 2018, and general chair for Benelearn 2018.
 
+## Program committee
+
+- Bill	Byrne	- University of Cambridge
+- Jan	Šnajder	- University of Zagreb
+- Željko	Agić	- IT University of Copenhagen
+- Antske	Fokkens	- VU Amsterdam
+- Brian	Roark	- Google Inc.
+- Angeliki	Lazaridou	- DeepMind
+- Samuel	Bowman	- New York University
+- David	Harwath	- Massachusetts Institute of Technology
+- Niranjan	Balasubramanian	- Stony Brook University
+- Willem	Zuidema	- University of Amsterdam
+- Robert	Frank	- Yale University
+- Yoav	Goldberg	- Bar Ilan University
+- Laurent	Besacier	- LIG
+- Mohammad Taher	Pilehvar	- University of Cambridge
+- Ewan	Dunbar	- Ecole Normale Supérieure et Ecole des Hautes Etudes en Sciences Sociales
+- Adhiguna	Kuncoro	- University of Oxford and DeepMind
+- Yves	Peirsman	- NLP Town
+- Alona	Fyshe	- University of Alberta
+- Or	Biran	- n-Join
+- Rebecca	Marvin	- Johns Hopkins University
+- Kyunghyun	Cho	- New York University
+- Ryan	Cotterell	- Johns Hopkins University
+- Arianna	Bisazza	- Leiden University
+- Adam	Lopez	- University of Edinburgh
+- Ignacio	Iacobacci	- Sapienza University of Rome
+- Miryam	de Lhoneux	- Uppsala University
+- Ákos	Kádár	- Tilburg University
+- Pravesh	Biyani	- IIIT Delhi
+- Allyson	Ettinger	- University of Maryland
+- Yonatan	Belinkov	- MIT CSAIL
+- Lieke	Gelderloos	- Tilburg University
+- Barbara	Plank	- IT University of Copenhagen
+- Nelson F.	Liu	- University of Washington
+- Indranil	Dutta	- The English and Foreign Languages University
+- Delip	Rao	- Johns Hopkins University
+- Paola	Merlo	- University of Geneva
+- Barry	Devereux	- Queen's University, Belfast
+- David	Mareček	- Charles University in Prague
+- Roberto	Basili	- University of Roma, Tor Vergata
+- Philipp	Koehn	- Johns Hopkins University
+- Marie-Francine	Moens	- KU Leuven
+- Emmanuel	Dupoux	- Ecole des Hautes Etudes en Sciences Sociales
+- John	Hale	- Cornell University and Google DeepMind
+- Jiwei	Li	- Stanford University
+- Whitney	Tabor	- University of Connecticut
+- Adina	Williams	- New York University
+- Fabio Massimo	Zanzotto	- University of Rome Tor Vergata
+
 
 ## Sponsors
 
