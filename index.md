@@ -71,53 +71,53 @@ He works on problems related to Natural Language Processing and Machine Learning
 
 ## Program committee
 
-- Bill	Byrne	- University of Cambridge
-- Jan	Šnajder	- University of Zagreb
 - Željko	Agić	- IT University of Copenhagen
-- Antske	Fokkens	- VU Amsterdam
-- Brian	Roark	- Google Inc.
-- Angeliki	Lazaridou	- DeepMind
-- Samuel	Bowman	- New York University
-- David	Harwath	- Massachusetts Institute of Technology
 - Niranjan	Balasubramanian	- Stony Brook University
-- Willem	Zuidema	- University of Amsterdam
-- Robert	Frank	- Yale University
-- Yoav	Goldberg	- Bar Ilan University
+- Roberto	Basili	- University of Roma, Tor Vergata
 - Laurent	Besacier	- LIG
-- Mohammad Taher	Pilehvar	- University of Cambridge
-- Ewan	Dunbar	- Ecole Normale Supérieure et Ecole des Hautes Etudes en Sciences Sociales
-- Adhiguna	Kuncoro	- University of Oxford and DeepMind
-- Yves	Peirsman	- NLP Town
-- Alona	Fyshe	- University of Alberta
+- Yonatan	Belinkov	- MIT CSAIL
 - Or	Biran	- n-Join
-- Rebecca	Marvin	- Johns Hopkins University
+- Pravesh	Biyani	- IIIT Delhi
+- Arianna	Bisazza	- Leiden University
+- Samuel	Bowman	- New York University
+- Bill	Byrne	- University of Cambridge
 - Kyunghyun	Cho	- New York University
 - Ryan	Cotterell	- Johns Hopkins University
-- Arianna	Bisazza	- Leiden University
-- Adam	Lopez	- University of Edinburgh
-- Ignacio	Iacobacci	- Sapienza University of Rome
-- Miryam	de Lhoneux	- Uppsala University
-- Ákos	Kádár	- Tilburg University
-- Pravesh	Biyani	- IIIT Delhi
-- Allyson	Ettinger	- University of Maryland
-- Yonatan	Belinkov	- MIT CSAIL
-- Lieke	Gelderloos	- Tilburg University
-- Barbara	Plank	- IT University of Copenhagen
-- Nelson F.	Liu	- University of Washington
-- Indranil	Dutta	- The English and Foreign Languages University
-- Delip	Rao	- Johns Hopkins University
-- Paola	Merlo	- University of Geneva
 - Barry	Devereux	- Queen's University, Belfast
-- David	Mareček	- Charles University in Prague
-- Roberto	Basili	- University of Roma, Tor Vergata
-- Philipp	Koehn	- Johns Hopkins University
-- Marie-Francine	Moens	- KU Leuven
+- Ewan	Dunbar	- Ecole Normale Supérieure et Ecole des Hautes Etudes en Sciences Sociales
 - Emmanuel	Dupoux	- Ecole des Hautes Etudes en Sciences Sociales
+- Indranil	Dutta	- The English and Foreign Languages University
+- Allyson	Ettinger	- University of Maryland
+- Antske	Fokkens	- VU Amsterdam
+- Robert	Frank	- Yale University
+- Alona	Fyshe	- University of Alberta
+- Lieke	Gelderloos	- Tilburg University
+- Yoav	Goldberg	- Bar Ilan University
 - John	Hale	- Cornell University and Google DeepMind
+- David	Harwath	- Massachusetts Institute of Technology
+- Ákos	Kádár	- Tilburg University
+- Philipp	Koehn	- Johns Hopkins University
+- Adhiguna	Kuncoro	- University of Oxford and DeepMind
+- Ignacio	Iacobacci	- Sapienza University of Rome
+- Angeliki	Lazaridou	- DeepMind
+- Miryam	de Lhoneux	- Uppsala University
 - Jiwei	Li	- Stanford University
+- Nelson F.	Liu	- University of Washington
+- Adam	Lopez	- University of Edinburgh
+- David	Mareček	- Charles University in Prague
+- Rebecca	Marvin	- Johns Hopkins University
+- Paola	Merlo	- University of Geneva
+- Marie-Francine	Moens	- KU Leuven
+- Yves	Peirsman	- NLP Town
+- Mohammad Taher	Pilehvar	- University of Cambridge
+- Barbara	Plank	- IT University of Copenhagen
+- Delip	Rao	- Johns Hopkins University
+- Brian	Roark	- Google Inc.
+- Jan	Šnajder	- University of Zagreb
 - Whitney	Tabor	- University of Connecticut
 - Adina	Williams	- New York University
 - Fabio Massimo	Zanzotto	- University of Rome Tor Vergata
+- Willem	Zuidema	- University of Amsterdam
 
 
 ## Sponsors
