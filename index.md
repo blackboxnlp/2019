@@ -36,6 +36,8 @@ Both papers and abstracts should be submitted via softconf: [https://www.softcon
 
 Accepted submissions will be presented at the workshop: most as posters, some as oral presentations (determined by the program committee).
 
+The workshop will have a best paper award, sponsored by the Department of Cognitive Science at Johns Hopkins University.
+
 ### Dual submissions
 
 Dual submissions of archival papers with EMNLP (or another conference) are allowed. Please let us know as soon as possible if you decide to withdraw a paper accepted elsewhere. Also please consider that dual submissions increase reviewing burden for the whole community.
