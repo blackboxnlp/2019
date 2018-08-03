@@ -7,6 +7,7 @@ The workshops will be held on October 31 and November 1.
 
 - July 19. Submission deadline (11:59pm Pacific Daylight Savings Time, UTC-7h).
 - August 3. Notification of acceptance.
+- August 30. Camera ready (11:59pm Pacific Daylight Savings Time, UTC-7h).
 - October 31 or November 1. Workshop.
 
 ## Description
