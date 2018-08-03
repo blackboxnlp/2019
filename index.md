@@ -86,7 +86,6 @@ He works on problems related to Natural Language Processing and Machine Learning
 - Ryan	Cotterell	- Johns Hopkins University
 - Barry	Devereux	- Queen's University, Belfast
 - Ewan	Dunbar	- Ecole Normale Supérieure et Ecole des Hautes Etudes en Sciences Sociales
-- Emmanuel	Dupoux	- Ecole des Hautes Etudes en Sciences Sociales
 - Indranil	Dutta	- The English and Foreign Languages University
 - Allyson	Ettinger	- University of Maryland
 - Antske	Fokkens	- VU Amsterdam
@@ -102,7 +101,6 @@ He works on problems related to Natural Language Processing and Machine Learning
 - Ignacio	Iacobacci	- Sapienza University of Rome
 - Angeliki	Lazaridou	- DeepMind
 - Miryam	de Lhoneux	- Uppsala University
-- Jiwei	Li	- Stanford University
 - Nelson F.	Liu	- University of Washington
 - Adam	Lopez	- University of Edinburgh
 - David	Mareček	- Charles University in Prague
