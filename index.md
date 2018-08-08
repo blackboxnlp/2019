@@ -8,7 +8,7 @@ The workshops will be held on October 31 and November 1.
 - July 19. Submission deadline (11:59pm Pacific Daylight Savings Time, UTC-7h).
 - August 3. Notification of acceptance.
 - August 30. Camera ready (11:59pm Pacific Daylight Savings Time, UTC-7h).
-- October 31 or November 1. Workshop.
+- November 1. Workshop.
 
 ## Description
 Neural networks have rapidly become a central component in language and speech understanding systems in the last few years. The improvements in accuracy and performance brought by the introduction of neural networks has typically come at the cost of our understanding of the system: what are the representations and computations that the network learns? The goal of this workshop is to bring together people who are attempting to peek inside the neural network black box, taking inspiration from machine learning, psychology, linguistics and neuroscience. The topics of the workshop will include, but are not limited to:
