@@ -15,13 +15,13 @@ The workshop will be collocated with [EMNLP 2018](http://emnlp2018.org/) in Brus
 | Time         | Program item                                  |
 |--------------|-----------------------------------------------|
 | 09:00-09:10  | Opening remarks                               |
-| 09:10-10:00  | Invited talk 1: Yoav Goldberg                 |
+| 09:10-10:00  | Invited talk 1: [Yoav Goldberg](index.md#yoav-goldberg)|
 | 10:00-11:00  | Poster session 1 (10:30-11 tea break)         |
 | 11:00-12:30  |  Oral presentation session 1 (6 x 15 minutes) |
 | 12:30-14:00  | Lunch                                         |
-| 14:00-14:50  | Invited talk 2: Graham Neubig                 |
+| 14:00-14:50  | Invited talk 2: [Graham Neubig](index.md#graham-neubig)|
 | 14:50-16:00  | Poster session 2 (15:30-16 tea break)         |
-| 16:00-16:50  | Invited talk 3: Leila Wehbe                   |
+| 16:00-16:50  | Invited talk 3: [Leila Wehbe](index.md#leila-wehbe)|
 | 16:50-17:20  |  Oral presentation session 2 (2 x 15 minutes) |
 | 17:20-17:30  | Best paper announcement and closing remarks   |
 
