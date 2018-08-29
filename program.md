@@ -21,7 +21,8 @@ Summary of the program
 Oral presentation session 1
 ---------------------------
 
-- 11:00-11:15 Interpretable Structure Induction via Sparse Attention. Ben Peters, Vlad Niculae and André F. T. Martins - 11:15-11:30 Understanding Convolutional Neural Networks for Text Classification. Alon Jacovi, Yoav Goldberg and Oren Sar Shalom 
+- 11:00-11:15 Interpretable Structure Induction via Sparse Attention. Ben Peters, Vlad Niculae and André F. T. Martins 
+- 11:15-11:30 Understanding Convolutional Neural Networks for Text Classification. Alon Jacovi, Yoav Goldberg and Oren Sar Shalom 
 - 11:30-11:45 Extracting Syntactic Trees from Transformer Encoder Self-Attentions. David Mareček and Rudolf Rosa 
 - 11:45-12:00 Context-Free Transductions with Neural Stacks. Yiding Hao, William Merrill, Dana Angluin, Robert Frank, Noah Amsel, Andrew Benz and Simon Mendelsohn 
 - 12:00-12:15 Explaining non-linear Classifier Decisions within Kernel-based Deep Architectures. Danilo Croce, Daniele Rossini and Roberto Basili 
