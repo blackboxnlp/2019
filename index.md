@@ -9,6 +9,25 @@ The workshop will be collocated with [EMNLP 2018](http://emnlp2018.org/) in Brus
 - August 30. Camera ready (11:59pm Pacific Daylight Savings Time, UTC-7h).
 - November 1. Workshop.
 
+## Workshop program
+
+### Summary
+
+| Time         | Program item                                  |
+|--------------|-----------------------------------------------|
+| 09:00-09:10  | Opening remarks                               |
+| 09:10-10:00  | Invited talk 1: Yoav Goldberg                 |
+| 10:00-11:00  | Poster session 1 (10:30-11 tea break)         |
+| 11:00-12:30  |  Oral presentation session 1 (6 x 15 minutes) |
+| 12:30-14:00  | Lunch                                         |
+| 14:00-14:50  | Invited talk 2: Graham Neubig                 |
+| 14:50-16:00  | Poster session 2 (15:30-16 tea break)         |
+| 16:00-16:50  | Invited talk 3: Leila Wehbe                   |
+| 16:50-17:20  |  Oral presentation session 2 (2 x 15 minutes) |
+| 17:20-17:30  | Best paper announcement and closing remarks   |
+
+### [Detailed program](program.html)
+
 ## Description
 Neural networks have rapidly become a central component in language and speech understanding systems in the last few years. The improvements in accuracy and performance brought by the introduction of neural networks has typically come at the cost of our understanding of the system: what are the representations and computations that the network learns? The goal of this workshop is to bring together people who are attempting to peek inside the neural network black box, taking inspiration from machine learning, psychology, linguistics and neuroscience. The topics of the workshop will include, but are not limited to:
 
