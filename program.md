@@ -54,7 +54,6 @@ Poster session 1
 - _Can LSTM Learn to Capture Agreement? The Case of Basque._	Shauli Ravfogel, Yoav Goldberg and Francis Tyers.
 - _Rearranging the Familiar: Testing Compositional Generalization in Recurrent Networks._	Joao Loula, Marco Baroni and Brenden Lake.
 - _Probing sentence embeddings for structure-dependent tense._	Geoff Bacon and Terry Regier.
-- _Deep Representations of Language Are Disentangled into Interpretable Linguistic Concepts._	Seil Na, Yo Joong Choe, Dong-Hyun Lee and Gunhee Kim.
 - _Evaluating the Ability of LSTMs to Learn Context-Free Grammars._	Luzi Sennhauser and Robert Berwick.
 - _Collecting Diverse Natural Language Inference Problems for Sentence Representation Evaluation._	Adam Poliak, Aparajita Haldar, Rachel Rudinger, J. Edward Hu, Ellie Pavlick, Aaron Steven White and Benjamin Van Durme.
 - _Interpretable Neural Architectures for Attributing an Ad’s Performance to its Writing Style._	Reid Pryzant, Sugato Basu and Kazoo Sone.
