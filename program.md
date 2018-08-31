@@ -47,8 +47,9 @@ Poster session 1
 - _On the Role of Document Preprocessing in Neural Text Classification._	Jose Camacho-Collados and Mohammad Taher Pilehvar.
 - _Language Models Learn POS First._	Naomi Saphra and Adam Lopez.
 - _Jump to better conclusions: SCAN both left and right._	Joost Bastings, Marco Baroni, Jason Weston, Kyunghyun Cho and Douwe Kiela.
-- _Ellipsis Resolution in Neural Networks._	Ola Rønning, Daniel Hardt and Anders Søgaard.
-- _Unsupervised Token-wise Alignment to Improve Interpretation of Encoder-Decoder models._	Shun Kiyono, Sho Takase, Jun Suzuki, Naoaki Okazaki, Kentaro Inui and Masaaki Nagata.
+- _Linguistic representations in multi-task neural networks for ellipsis
+resolution._	Ola Rønning, Daniel Hardt and Anders Søgaard.
+- _Unsupervised Token-wise Alignment to Improve Interpretation of Encoder-Decoder Models._	Shun Kiyono, Sho Takase, Jun Suzuki, Naoaki Okazaki, Kentaro Inui and Masaaki Nagata.
 - _Rule induction for global explanation of trained models._	Madhumita Sushil, Simon Suster and Walter Daelemans.
 - _Predicting and interpreting embeddings for out of vocabulary words in downstream tasks._	Nicolas Garneau, Jean-Samuel Leboeuf and Luc Lamontagne.
 - _Can LSTM Learn to Capture Agreement? The Case of Basque._	Shauli Ravfogel, Yoav Goldberg and Francis Tyers.
@@ -72,7 +73,7 @@ Poster session 2
 - _Portable, layer-wise task performance monitoring for NLP models._	Tom Lippincott.
 - _GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding._	Alex Wang, Amanpreet Singh, Julian Michael, Felix Hill, Omer Levy and Samuel Bowman.
 - _Explicitly modeling case improves neural dependency parsing._	Clara Vania and Adam Lopez.
-- _Learning and Evaluating Sparse Interpretable Sentence Embeddings._	Valentin Trifonov, Octavian-Eugen Ganea and Anna Potapenko.
+- _Learning and Evaluating Sparse Interpretable Sentence Embeddings._	Valentin Trifonov, Octavian-Eugen Ganea, Anna Potapenko and Thomas Hofmann.
 - _Language Modeling Teaches You More than Translation Does: Lessons Learned Through Auxiliary Syntactic Task Analysis._	Kelly Zhang and Samuel Bowman.
 - _Do Language Models Understand Anything? On the Ability of LSTMs to Understand Negative Polarity Items._	Jaap Jumelet and Dieuwke Hupkes.
 - _Representation of Word Meaning in the Intermediate Projection Layer of a Neural Language Model._	Steven Derby, Paul Miller, Brian Murphy and Barry Devereux.
