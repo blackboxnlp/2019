@@ -71,7 +71,8 @@ Bio: [Leila Wehbe](http://www.cs.cmu.edu/~lwehbe/) is an assistant professor of 
 
 ### Graham Neubig
 <img src="http://www.phontron.com/images/neubig-headshot-2016-small.jpg" width="100px"> 
-Title: Learning with Latent Linguistic Structure
+
+**Learning with Latent Linguistic Structure**
 
 Neural networks provide a powerful tool to model language, but also
 depart from standard methods of linguistic representation, which
