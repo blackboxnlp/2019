@@ -34,6 +34,10 @@ The workshop will be collocated with [EMNLP 2018](http://emnlp2018.org/) in Brus
 ###  Leila Wehbe  
 <img src="http://www.cs.cmu.edu/~lwehbe/pic01.jpg" width="100px"> 
 
+**Language representations in human brains and artificial neural networks**
+
+When studying language in the brain, it has become more common to image the brain of humans while they process naturalistic language stimuli consisting of rich, natural text. To analyse the brain representation of such complex stimuli, vector representations derived from various NLP methods are extremely useful as a model of the information being processed in the brain. The recent deep learning revolution has ignited a lot of interest in using artificial neural networks as a source of high dimensional vector representation for modeling brain processes. However, these representations are hard to interpret and the problem becomes increasingly difficult: how do we study complex brain activity -- a black box we want to understand -- using hard-to-interpret artificial neural network representations -- another black box we want to understand? In this talk, I will summarize the recent effort in modeling the brain processing of language, the use of artificial neural networks in this process, and how inferences about brain processes and about artificial neural network representations can still be made under this setup.
+
 Bio: [Leila Wehbe](http://www.cs.cmu.edu/~lwehbe/) is an assistant professor of Machine Learning at Carnegie Mellon University. Previously, we was a postdoctoral researcher at the Gallant Lab in the Helen Wills Neuroscience Institute at UC Berkeley. She obtained her PhD from the Machine Learning Department and the Center for the Neural Basis of Cognition at Carnegie Mellon University, where she worked with Tom Mitchell. She works on studying language representations in the brain when subjects engage in naturalistic language tasks. Specifically, she combines functional neuroimaging with natural language processing and machine learning tools to build spatiotemporal maps of the information represented in the brain during language processing.
 
 ### Graham Neubig
