@@ -29,6 +29,39 @@ The workshop will be collocated with [EMNLP 2018](http://emnlp2018.org/) in Brus
 [Detailed program](program.md)
 
 
+## Invited Speakers
+
+###  Leila Wehbe  
+<img src="http://www.cs.cmu.edu/~lwehbe/pic01.jpg" width="100px"> 
+
+Bio: [Leila Wehbe](http://www.cs.cmu.edu/~lwehbe/) is an assistant professor of Machine Learning at Carnegie Mellon University. Previously, we was a postdoctoral researcher at the Gallant Lab in the Helen Wills Neuroscience Institute at UC Berkeley. She obtained her PhD from the Machine Learning Department and the Center for the Neural Basis of Cognition at Carnegie Mellon University, where she worked with Tom Mitchell. She works on studying language representations in the brain when subjects engage in naturalistic language tasks. Specifically, she combines functional neuroimaging with natural language processing and machine learning tools to build spatiotemporal maps of the information represented in the brain during language processing.
+
+### Graham Neubig
+<img src="http://www.phontron.com/images/neubig-headshot-2016-small.jpg" width="100px"> 
+
+**Learning with Latent Linguistic Structure**
+
+Neural networks provide a powerful tool to model language, but also
+depart from standard methods of linguistic representation, which
+usually consist of discrete tag, tree, or graph structures. These
+structures are useful for a number of reasons: they are more
+interpretable, and also can be useful in downstream tasks. In this
+talk, I will discuss models that explicitly incorporate these
+structures as latent variables, allowing for unsupervised or
+semi-supervised discovery of interpretable linguistic structure, with
+applications to part-of-speech and morphological tagging, as well as
+syntactic and semantic parsing.
+
+Bio: [Graham Neubig](http://www.phontron.com/) is an assistant professor at the Language Technologies Intitute of Carnegie Mellon University. His work focuses on natural language processing, specifically multi-lingual models that work in many different languages, and natural language interfaces that allow humans to communicate with computers in their own language. Much of this work relies on machine learning to create these systems from data, and he is also active in developing methods and algorithms for machine learning over natural language data. He publishes regularly in the top venues in natural language processing, machine learning, and speech, and his work occasionally wins awards such as best papers at EMNLP, EACL, and WNMT. He is also active in developing open-source software, and is the main developer of the DyNet neural network toolkit.
+
+### Yoav Goldberg
+<img src="https://www.cs.bgu.ac.il/~yoavg/uni/me.jpg" width="100px">
+
+Bio: [Yoav Goldberg](http://u.cs.biu.ac.il/~yogo/) is a Senior Lecturer at Bar Ilan University's Computer Science Department. Before that, he was  a Research Scientist at Google Research New York.
+He works on problems related to Natural Language Processing and Machine Learning. In particular he is interested in syntactic parsing, structured-prediction models, learning for greedy decoding algorithms, multilingual language understanding, and cross domain learning. Lately, he is also interested in neural network based methods for NLP. He recently published a book on the subject. 
+
+
+
 ## Description
 Neural networks have rapidly become a central component in language and speech understanding systems in the last few years. The improvements in accuracy and performance brought by the introduction of neural networks has typically come at the cost of our understanding of the system: what are the representations and computations that the network learns? The goal of this workshop is to bring together people who are attempting to peek inside the neural network black box, taking inspiration from machine learning, psychology, linguistics and neuroscience. The topics of the workshop will include, but are not limited to:
 
@@ -61,37 +94,6 @@ The workshop will have a best paper award, sponsored by the Department of Cognit
 ### Dual submissions
 
 Dual submissions of archival papers with EMNLP (or another conference) are allowed. Please let us know as soon as possible if you decide to withdraw a paper accepted elsewhere. Also please consider that dual submissions increase reviewing burden for the whole community.
-
-## Invited Speaker
-
-###  Leila Wehbe  
-<img src="http://www.cs.cmu.edu/~lwehbe/pic01.jpg" width="100px"> 
-
-Bio: [Leila Wehbe](http://www.cs.cmu.edu/~lwehbe/) is an assistant professor of Machine Learning at Carnegie Mellon University. Previously, we was a postdoctoral researcher at the Gallant Lab in the Helen Wills Neuroscience Institute at UC Berkeley. She obtained her PhD from the Machine Learning Department and the Center for the Neural Basis of Cognition at Carnegie Mellon University, where she worked with Tom Mitchell. She works on studying language representations in the brain when subjects engage in naturalistic language tasks. Specifically, she combines functional neuroimaging with natural language processing and machine learning tools to build spatiotemporal maps of the information represented in the brain during language processing.
-
-### Graham Neubig
-<img src="http://www.phontron.com/images/neubig-headshot-2016-small.jpg" width="100px"> 
-
-**Learning with Latent Linguistic Structure**
-
-Neural networks provide a powerful tool to model language, but also
-depart from standard methods of linguistic representation, which
-usually consist of discrete tag, tree, or graph structures. These
-structures are useful for a number of reasons: they are more
-interpretable, and also can be useful in downstream tasks. In this
-talk, I will discuss models that explicitly incorporate these
-structures as latent variables, allowing for unsupervised or
-semi-supervised discovery of interpretable linguistic structure, with
-applications to part-of-speech and morphological tagging, as well as
-syntactic and semantic parsing.
-
-Bio: [Graham Neubig](http://www.phontron.com/) is an assistant professor at the Language Technologies Intitute of Carnegie Mellon University. His work focuses on natural language processing, specifically multi-lingual models that work in many different languages, and natural language interfaces that allow humans to communicate with computers in their own language. Much of this work relies on machine learning to create these systems from data, and he is also active in developing methods and algorithms for machine learning over natural language data. He publishes regularly in the top venues in natural language processing, machine learning, and speech, and his work occasionally wins awards such as best papers at EMNLP, EACL, and WNMT. He is also active in developing open-source software, and is the main developer of the DyNet neural network toolkit.
-
-### Yoav Goldberg
-<img src="https://www.cs.bgu.ac.il/~yoavg/uni/me.jpg" width="100px">
-
-Bio: [Yoav Goldberg](http://u.cs.biu.ac.il/~yogo/) is a Senior Lecturer at Bar Ilan University's Computer Science Department. Before that, he was  a Research Scientist at Google Research New York.
-He works on problems related to Natural Language Processing and Machine Learning. In particular he is interested in syntactic parsing, structured-prediction models, learning for greedy decoding algorithms, multilingual language understanding, and cross domain learning. Lately, he is also interested in neural network based methods for NLP. He recently published a book on the subject. 
 
 
 ## Organizers
