@@ -44,7 +44,7 @@ Poster session 1
 - _Does it care what you asked? Understanding Importance of Verbs in Deep Learning QA System._	Barbara Rychalska, Dominika Basaj, Anna Wróblewska and Przemyslaw Biecek.
 - _Interpretable Textual Neuron Representations for NLP._	Nina Poerner, Benjamin Roth and Hinrich Schütze.
 - _Evaluating Textual Representations through Image Generation._	Graham Spinks and Marie-Francine Moens.
-- _On the Role of Document Preprocessing in Neural Text Classification._	Jose Camacho-Collados and Mohammad Taher Pilehvar.
+- _On the Role of Text Preprocessing in Neural Network Architectures: An Evaluation Study on Text Categorization and Sentiment Analysis._	Jose Camacho-Collados and Mohammad Taher Pilehvar.
 - _Language Models Learn POS First._	Naomi Saphra and Adam Lopez.
 - _Jump to better conclusions: SCAN both left and right._	Joost Bastings, Marco Baroni, Jason Weston, Kyunghyun Cho and Douwe Kiela.
 - _Linguistic representations in multi-task neural networks for ellipsis
