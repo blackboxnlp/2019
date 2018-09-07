@@ -58,7 +58,7 @@ resolution._	Ola Rønning, Daniel Hardt and Anders Søgaard.
 - _Evaluating the Ability of LSTMs to Learn Context-Free Grammars._	Luzi Sennhauser and Robert Berwick.
 - _Collecting Diverse Natural Language Inference Problems for Sentence Representation Evaluation._	Adam Poliak, Aparajita Haldar, Rachel Rudinger, J. Edward Hu, Ellie Pavlick, Aaron Steven White and Benjamin Van Durme.
 - _Interpretable Neural Architectures for Attributing an Ad’s Performance to its Writing Style._	Reid Pryzant, Sugato Basu and Kazoo Sone.
-- _Interpretable Word Embedding Contextualization._	Kyoung-Rok Jang and Sung-Hyon Myaeng.
+- _Interpretable Word Embedding Contextualization._	Kyoung-Rok Jang, Sung-Hyon Myaeng and Sang-Bum Kim.
 - _Interpreting Neural Networks with Nearest Neighbors._	Eric Wallace, Shi Feng and Jordan Boyd-Graber.
 - _'Indicatements' that character language models learn English morpho-syntactic units and regularities._	Yova Kementchedjhieva and Adam Lopez.
 
