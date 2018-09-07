@@ -61,6 +61,10 @@ Bio: [Graham Neubig](http://www.phontron.com/) is an assistant professor at the 
 ### Yoav Goldberg
 <img src="https://www.cs.bgu.ac.il/~yoavg/uni/me.jpg" width="100px">
 
+**Trying to Understand Recurrent Neural Networks for Language Processing**
+
+Recurrent neural networks (RNNs), and in particular LSTM networks, emerge as very capable learners for sequential data. Thus, my group started using them everywhere, achieving strong results on many language understanding and modeling tasks. However, little is known about how RNNs represent sequences, what they actually encode, and what they are capable representing. In this talk, I will describe some attempts at trying to shed light on the inner-working of RNNs. Particularly, I plan to describe at least two of the following: a method for comparing what is captured in vector representations of sentences based on different encoders (Adi et al, ICLR 2017, and more generally the notion of diagnostic classification), a framework for extracting a finite-state automata from trained RNNs (Weiss et al, ICML 2018), and a formal difference between the representation capacity of different RNN variants (Weiss et al, ACL 2018).
+
 Bio: [Yoav Goldberg](http://u.cs.biu.ac.il/~yogo/) is a Senior Lecturer at Bar Ilan University's Computer Science Department. Before that, he was  a Research Scientist at Google Research New York.
 He works on problems related to Natural Language Processing and Machine Learning. In particular he is interested in syntactic parsing, structured-prediction models, learning for greedy decoding algorithms, multilingual language understanding, and cross domain learning. Lately, he is also interested in neural network based methods for NLP. He recently published a book on the subject. 
 
