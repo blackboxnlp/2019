@@ -84,7 +84,7 @@ Poster session 2
 - _Grammar Induction with Neural Language Models: An Unusual Replication._	Phu Mon Htut, Kyunghyun Cho and Samuel Bowman.
 - _Importance of Self-Attention for Sentiment Analysis._	Gaël Letarte, Frédérik Paradis, Philippe Giguère and François Laviolette.
 - _Does Syntactic Knowledge in Multilingual Language Models Transfer Across Languages?_	Prajit Dhar and Arianna Bisazza
-- _Diagnosing Failures in Question Answering Tasks with Attention._	Aida Nematzadeh, Kaylee Burns, Erin Grant and Tom Griffiths.
+- _Exploiting Attention to Reveal Shortcomings in Memory Models._ Kaylee Burns, Aida Nematzadeh, Burns, Erin Grant, Alison Gopnik and Tom Griffiths.
 - _An Analysis of Encoder Representations in Transformer-Based Machine Translation._	Alessandro Raganato and Jörg Tiedemann.
 - _End-to-end Image Captioning Exploits Distributional Similarity in Multimodal Space._	Pranava Swaroop Madhyastha, Josiah Wang and Lucia Specia.
 - _Evaluating Grammaticality in Seq2seq Models with a Broad Coverage HPSG Grammar: A Case Study on Machine Translation._	Johnny Wei, Khiem Pham, Brendan O'Connor and Brian Dillon.
