@@ -28,6 +28,9 @@ The workshop will be collocated with [EMNLP 2018](http://emnlp2018.org/) in Brus
 
 [Detailed program](program.md)
 
+## Information for presenters
+
+Poster size should be A0: 84 cm (width) by 118 cm (height), or 33 by 46 inch. Posters should be in *portrait* format.
 
 ## Invited Speakers
 
