@@ -61,6 +61,7 @@ resolution._	Ola Rønning, Daniel Hardt and Anders Søgaard.
 - _Interpretable Word Embedding Contextualization._	Kyoung-Rok Jang, Sung-Hyon Myaeng and Sang-Bum Kim.
 - _Interpreting Neural Networks with Nearest Neighbors._	Eric Wallace, Shi Feng and Jordan Boyd-Graber.
 - _'Indicatements' that character language models learn English morpho-syntactic units and regularities._	Yova Kementchedjhieva and Adam Lopez.
+- _Do Language Models Understand Anything? On the Ability of LSTMs to Understand Negative Polarity Items._	Jaap Jumelet and Dieuwke Hupkes.
 
 Poster session 2
 ----------------
@@ -75,7 +76,6 @@ Poster session 2
 - _Explicitly modeling case improves neural dependency parsing._	Clara Vania and Adam Lopez.
 - _Learning and Evaluating Sparse Interpretable Sentence Embeddings._	Valentin Trifonov, Octavian-Eugen Ganea, Anna Potapenko and Thomas Hofmann.
 - _Language Modeling Teaches You More than Translation Does: Lessons Learned Through Auxiliary Syntactic Task Analysis._	Kelly Zhang and Samuel Bowman.
-- _Do Language Models Understand Anything? On the Ability of LSTMs to Understand Negative Polarity Items._	Jaap Jumelet and Dieuwke Hupkes.
 - _Representation of Word Meaning in the Intermediate Projection Layer of a Neural Language Model._	Steven Derby, Paul Miller, Brian Murphy and Barry Devereux.
 - _Closing Brackets with Recurrent Neural Networks._	Natalia Skachkova, Thomas Trost and Dietrich Klakow.
 - _Iterative Recursive Attention Model for Interpretable Sequence Classification._	Martin Tutek and Jan Šnajder.
