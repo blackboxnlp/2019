@@ -137,6 +137,7 @@ Dual submissions of archival papers with EMNLP (or another conference) are allow
 - Allyson	Ettinger	- University of Maryland
 - Antske	Fokkens	- VU Amsterdam
 - Robert	Frank	- Yale University
+- Alexander Fraser - University of Munich
 - Alona	Fyshe	- University of Alberta
 - Lieke	Gelderloos	- Tilburg University
 - Yoav	Goldberg	- Bar Ilan University
