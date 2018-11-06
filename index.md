@@ -9,6 +9,10 @@ The workshop will be collocated with [EMNLP 2018](http://emnlp2018.org/) in Brus
 - August 30. Camera ready (11:59pm Pacific Daylight Savings Time, UTC-7h).
 - November 1. Workshop.
 
+## Proceedings
+
+The workshop proceedings are available via ACL Anthology: <a href="https://t.co/yxzNHYbv69">proceedings</a>
+
 ## Workshop program
 
 
