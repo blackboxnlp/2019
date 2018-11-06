@@ -50,6 +50,8 @@ Bio: [Leila Wehbe](http://www.cs.cmu.edu/~lwehbe/) is an assistant professor of 
 
 **Learning with Latent Linguistic Structure**
 
+<a href="https://t.co/fbAdkyO8jy">Slides</a>
+
 Neural networks provide a powerful tool to model language, but also
 depart from standard methods of linguistic representation, which
 usually consist of discrete tag, tree, or graph structures. These
@@ -67,6 +69,8 @@ Bio: [Graham Neubig](http://www.phontron.com/) is an assistant professor at the 
 <img src="https://www.cs.bgu.ac.il/~yoavg/uni/me.jpg" width="100px">
 
 **Trying to Understand Recurrent Neural Networks for Language Processing**
+
+<a href="https://t.co/DL0smjHchA">Slides</a>
 
 Recurrent neural networks (RNNs), and in particular LSTM networks, emerge as very capable learners for sequential data. Thus, my group started using them everywhere, achieving strong results on many language understanding and modeling tasks. However, little is known about how RNNs represent sequences, what they actually encode, and what they are capable representing. In this talk, I will describe some attempts at trying to shed light on the inner-working of RNNs. Particularly, I plan to describe at least two of the following: a method for comparing what is captured in vector representations of sentences based on different encoders (Adi et al, ICLR 2017, and more generally the notion of diagnostic classification), a framework for extracting a finite-state automata from trained RNNs (Weiss et al, ICML 2018), and a formal difference between the representation capacity of different RNN variants (Weiss et al, ACL 2018).
 
