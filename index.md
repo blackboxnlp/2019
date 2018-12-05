@@ -1,6 +1,6 @@
 ## BlackboxNLP 2019
 
-We are happy to announce that BlackboxNLP 2019 will be co-located with [ACL 2019](http://www.acl2019.org/) in Florence (August 1 or 2). The information below refers to BlackboxNLP 2018; we will update this website soon with more information about BlackboxNLP 2019.
+We are happy to announce that BlackboxNLP 2019 will be co-located with [ACL 2019](http://www.acl2019.org/) in Florence (August 1 or 2). We will update this website soon with more information!
 
 ## Venue
 
