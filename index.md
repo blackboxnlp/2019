@@ -2,6 +2,8 @@
 
 We are happy to announce that BlackboxNLP 2019 will be co-located with [ACL 2019](http://www.acl2019.org/) in Florence (August 1 or 2). We will update this website soon with more information!
 
+Archived information about the 2018 edition: [blackboxnlp.github.io/2018](https://blackboxnlp.github.io/2018/).
+
 ## Venue
 
 The workshop will be collocated with [ACL 2019](http://www.acl2019.org/) in Florence. 
