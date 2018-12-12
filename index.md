@@ -44,7 +44,7 @@ TBA
 - Mark Ormerod - Queen's University Belfast
 - Yves	Peirsman	- NLP Town
 - Barbara	Plank	- IT University of Copenhagen
-- Hassan Sad - Qatar Computing Research Institute
+- Hassan Sajjad - Qatar Computing Research Institute
 - Naomi Saphra - University of Edinburgh
 - Jan	Šnajder	- University of Zagreb
 - Adina	Williams	- New York University
