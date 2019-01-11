@@ -56,7 +56,7 @@ valid?
 
 BlackboxNLP 2019 is the second BlackboxNLP workshop. The programme and
 proceedings of the previous edition, which was held at EMNLP 2018, can be
-found [here](blackboxnlp.github.io/2018).
+found [here](https://blackboxnlp.github.io/2018/).
 
 ## Submission types
 
