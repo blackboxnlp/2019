@@ -6,6 +6,8 @@ Archived information about the 2018 edition: [blackboxnlp.github.io/2018](blackb
 
 Archived information about the 2018 edition: [blackboxnlp.github.io/2018](https://blackboxnlp.github.io/2018/).
 
+Archived information about the 2018 edition: [blackboxnlp.github.io/2018](https://blackboxnlp.github.io/2018/).
+
 ## Venue
 
 The workshop will be collocated with [ACL 2019](http://www.acl2019.org/) in Florence. 
