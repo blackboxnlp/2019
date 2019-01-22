@@ -15,6 +15,16 @@ The workshop will be collocated with [ACL 2019](http://www.acl2019.org/) in Flor
 - June 3. Camera ready (11:59pm Pacific Daylight Savings Time, UTC-7h).
 - August 1. Workshop.
 
+## Invited speakers
+
+### [Arianna Bisazza](http://liacs.leidenuniv.nl/~bisazzaa/)
+<img src="http://liacs.leidenuniv.nl/~bisazzaa/fig/arianna-utrecht.jpeg" width="100px">
+
+### [Ari Morcos](http://www.arimorcos.com)
+<img src="http://www.arimorcos.com/static/images/FAIR_headshot.jpg" width="100px">
+
+Bio: Ari Morcos is a Research Scientist at Facebook AI Research working on understanding the mechanisms underlying neural network computation and function, and using these insights to build machine learning systems more intelligently. In particular, Ari has worked on understanding the properties predictive of generalization, methods to compare representations across networks, the role of single units in computation, and on strategies to measure abstraction in neural network representations. Previously, he worked at DeepMind in London, and earned his PhD in Neurobiology at Harvard University, using machine learning to study the cortical dynamics underlying evidence accumulation for decision-making.
+
 ## Description
 
 Neural networks have rapidly become a central component in NLP systems in
