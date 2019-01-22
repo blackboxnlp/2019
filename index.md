@@ -63,8 +63,9 @@ found [here](https://blackboxnlp.github.io/2018/).
 ### Tal Linzen
 Tal Linzen (tal.linzen@jhu.edu) is an Assistant Professor of Cognitive Science at Johns Hopkins University. He develops computational cognitive models of language. In addition to his work in psycholinguistics and cognitive neuroscience, he has studied the syntactic capabilities of contemporary artificial neural networks and the linguistic information encoded in word embeddings, in work that has appeared in TACL, EACL and CoNLL. He has co-organized the first edition of BlackboxNLP, and has also organized two editions of the workshop on Cognitive Modeling and Computational Linguistics, co-located with EACL 2017 and with SCiL 2018.
 
-### Gregorz Chrupala
-Gregorz Chrupala (g.chrupala@uvt.nl) is an Assistant Professor at the Department of Cognitive Science and Artificial Intelligence at Tilburg University. His recent research focus has been on computational models of language learning  from multimodal signals such as speech and vision and on the analysis of linguistic representations emerging in multilayer recurrent neural networks. He regularly serves on program committees of major NLP and AI conferences, workshops and journals. He was an area chair at ACL 2017 and EMNLP 2018, and he co-organized the first edition of BlackboxNLP.
+### Grzegorz Chrupała
+Grzegorz Chrupała (g.chrupala@uvt.nl) is an Assistant Professor at the Department of Cognitive Science and Artificial Intelligence at Tilburg University. His research focuses on computational models of language learning from multimodal signals such as speech and vision and on the analysis and interpretability of representations emerging in
+multilayer neural networks. His work has appeared in venues such as *Computational Linguistics*, ACL, EMNLP and CoNLL. He has served as area chair for ACL, EMNLP and CoNLL and he co-organized the first edition of BlackboxNLP.
 
 ### Yonatan Belinkov
 Yonatan Belinkov (belinkov@seas.harvard.edu) is a Postdoctoral Fellow at the Harvard School of Engineering and Applied Sciences (SEAS) and the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL). 
