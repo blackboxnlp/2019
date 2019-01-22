@@ -68,27 +68,6 @@ BlackboxNLP 2019 is the second BlackboxNLP workshop. The programme and
 proceedings of the previous edition, which was held at EMNLP 2018, can be
 found [here](https://blackboxnlp.github.io/2018/).
 
-## Organizers
-
-### Tal Linzen
-Tal Linzen (tal.linzen@jhu.edu) is an Assistant Professor of Cognitive Science at Johns Hopkins University. He develops computational cognitive models of language. In addition to his work in psycholinguistics and cognitive neuroscience, he has studied the syntactic capabilities of contemporary artificial neural networks and the linguistic information encoded in word embeddings, in work that has appeared in TACL, EACL and CoNLL. He has co-organized the first edition of BlackboxNLP, and has also organized two editions of the workshop on Cognitive Modeling and Computational Linguistics, co-located with EACL 2017 and with SCiL 2018.
-
-### Grzegorz Chrupała
-Grzegorz Chrupała (g.chrupala@uvt.nl) is an Assistant Professor at the Department of Cognitive Science and Artificial Intelligence at Tilburg University. His research focuses on computational models of language learning from multimodal signals such as speech and vision and on the analysis and interpretability of representations emerging in
-multilayer neural networks. His work has appeared in venues such as *Computational Linguistics*, ACL, EMNLP and CoNLL. He has served as area chair for ACL, EMNLP and CoNLL and he co-organized the first edition of BlackboxNLP.
-
-### Yonatan Belinkov
-Yonatan Belinkov (belinkov@seas.harvard.edu) is a Postdoctoral Fellow at the Harvard School of Engineering and Applied Sciences (SEAS) and the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL). 
-His recent research focuses on representations of language in neural network models, with applications in machine translation and speech recognition. 
-His research has been published at ACL, EMNLP, TACL, ICLR, and NIPS. 
-His PhD dissertation at MIT analyzed internal language representations in deep learning models. 
-
-### Dieuwke Hupkes
-Dieuwke Hupkes (d.hupkes@uva.nl) is a PhD student at the University of Amsterdam.
-The main focus of her research is understanding how recurrent neural networks can understand and learn the structures that occur in natural language.
-Developing methods to interpret and interact with neural networks has therefore been an important area of focus in her research.
-She authored 5 articles directly relevant to the workshop, one of them published in a top AI journal (Journal of Artificial Intelligence), and she is co-organizing a workshop on compositionality, neural networks, and the brain to be held at the Lorentz Center in the summer of 2019.
-
 
 ## Submission types
 
@@ -114,6 +93,29 @@ Both papers and abstracts should follow the official ACL 2019 style guidelines a
 [https://www.softconf.com/acl2019/blackboxnlp.](https://www.softconf.com/acl2019/blackboxnlp.)
 
 Accepted submissions will be presented at the workshop: most as posters, some as oral presentations (determined by the program committee).
+
+
+## Organizers
+
+### Tal Linzen
+Tal Linzen (tal.linzen@jhu.edu) is an Assistant Professor of Cognitive Science at Johns Hopkins University. He develops computational cognitive models of language. In addition to his work in psycholinguistics and cognitive neuroscience, he has studied the syntactic capabilities of contemporary artificial neural networks and the linguistic information encoded in word embeddings, in work that has appeared in TACL, EACL and CoNLL. He has co-organized the first edition of BlackboxNLP, and has also organized two editions of the workshop on Cognitive Modeling and Computational Linguistics, co-located with EACL 2017 and with SCiL 2018.
+
+### Grzegorz Chrupała
+Grzegorz Chrupała (g.chrupala@uvt.nl) is an Assistant Professor at the Department of Cognitive Science and Artificial Intelligence at Tilburg University. His research focuses on computational models of language learning from multimodal signals such as speech and vision and on the analysis and interpretability of representations emerging in
+multilayer neural networks. His work has appeared in venues such as *Computational Linguistics*, ACL, EMNLP and CoNLL. He has served as area chair for ACL, EMNLP and CoNLL and he co-organized the first edition of BlackboxNLP.
+
+### Yonatan Belinkov
+Yonatan Belinkov (belinkov@seas.harvard.edu) is a Postdoctoral Fellow at the Harvard School of Engineering and Applied Sciences (SEAS) and the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL). 
+His recent research focuses on representations of language in neural network models, with applications in machine translation and speech recognition. 
+His research has been published at ACL, EMNLP, TACL, ICLR, and NIPS. 
+His PhD dissertation at MIT analyzed internal language representations in deep learning models. 
+
+### Dieuwke Hupkes
+Dieuwke Hupkes (d.hupkes@uva.nl) is a PhD student at the University of Amsterdam.
+The main focus of her research is understanding how recurrent neural networks can understand and learn the structures that occur in natural language.
+Developing methods to interpret and interact with neural networks has therefore been an important area of focus in her research.
+She authored 5 articles directly relevant to the workshop, one of them published in a top AI journal (Journal of Artificial Intelligence), and she is co-organizing a workshop on compositionality, neural networks, and the brain to be held at the Lorentz Center in the summer of 2019.
+
 
 ## Program committee
 
