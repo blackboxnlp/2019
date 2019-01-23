@@ -19,6 +19,10 @@ The workshop will be collocated with [ACL 2019](http://www.acl2019.org/) in Flor
 
 ### [Arianna Bisazza](http://liacs.leidenuniv.nl/~bisazzaa/)
 <img src="http://liacs.leidenuniv.nl/~bisazzaa/fig/arianna-utrecht.jpeg" width="100px">
+Bio: Arianna Bisazza is an Assistant Professor in natural language processing at Leiden University, Netherlands. 
+Her research aims at identifying intrinsic limitations of current language modeling paradigms as well as improving the quality of machine translation for challenging language pairs.
+She previously worked as a postdoc at the University of Amsterdam and as a research assistant at Fondazione Bruno Kessler. 
+She obtained her PhD from the University of Trento, Italy, in 2013 and was awarded an NWO VENI grant in 2016.
 
 ### [Ari Morcos](http://www.arimorcos.com)
 <img src="http://www.arimorcos.com/static/images/FAIR_headshot.jpg" width="100px">
