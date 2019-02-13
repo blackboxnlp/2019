@@ -157,3 +157,8 @@ She authored 5 articles directly relevant to the workshop, one of them published
 - Fabio Massimo	Zanzotto	- University of Rome Tor Vergata
 - Willem	Zuidema	- University of Amsterdam
 
+
+## Sponsors
+
+<img src="GoogleLogo_Color.png" width="200px">
+<a href="https://www.microsoft.com/en-us/research"><img src="MSFT_logo_rgb_C-Gray.png" width="200px"></a>
