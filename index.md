@@ -161,4 +161,4 @@ She authored 5 articles directly relevant to the workshop, one of them published
 ## Sponsors
 
 <img src="GoogleLogo_Color.png" width="200px">
-<a href="https://www.microsoft.com/en-us/research"><img src="MSFT_logo_rgb_C-Gray.png" width="200px"></a>
+<a href="https://www.microsoft.com/en-us/research"><img src="MSFT_logo_rgb_C-Gray.png" width="300px"></a>
