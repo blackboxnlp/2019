@@ -84,14 +84,16 @@ shorter than this maximum are also welcome. Accepted papers are expected to
 be presented at the workshop and will be published in the workshop
 proceedings. They should report on obtained results rather than intended
 work. These papers will undergo double-blind peer-review, and should thus
-be anonymized.
+be anonymized. Archival papers will be included in the workshop proceedings 
+and the ACL anthology.
 
 - Extended abstracts. These may report on work in progress or may be cross
 submissions that have already appeared in a non-NLP venue. The extended
 abstracts are of maximum 2 pages + references. These submissions are
 non-archival in order to allow submission to another venue. The selection
 will not be based on a double-blind review and thus submissions of this
-type need not be anonymized.
+type need not be anonymized. Abstracts will be posted on the workshop website
+but will not be included in the proceedings.
 
 Both papers and abstracts should follow the official ACL 2019 style guidelines and should be submitted via softconf:
 
