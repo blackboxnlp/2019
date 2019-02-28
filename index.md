@@ -74,7 +74,7 @@ proceedings of the previous edition, which was held at EMNLP 2018, can be
 found [here](https://blackboxnlp.github.io/2018/).
 
 
-## Submission types
+## Submission
 
 We accept two types of papers
 
@@ -100,6 +100,15 @@ Both papers and abstracts should follow the official ACL 2019 style guidelines a
 [https://www.softconf.com/acl2019/blackboxnlp.](https://www.softconf.com/acl2019/blackboxnlp.)
 
 Accepted submissions will be presented at the workshop: most as posters, some as oral presentations (determined by the program committee).
+
+### Dual submissions
+Dual submissions of archival papers with other venues are allowed. Please let us know as soon as possible if 
+you decide to withdraw a paper accepted elsewhere. Also please consider that dual submissions increase reviewing burden 
+for the whole community.
+
+### Preprints
+Papers posted to preprint servers such as arxiv can be submitted without any restrictions on when they were posted.
+
 
 
 ## Organizers
