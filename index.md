@@ -175,5 +175,5 @@ She authored 5 articles directly relevant to the workshop, one of them published
 <img src="GoogleLogo_Color.png" width="200px">
 <a href="https://www.microsoft.com/en-us/research"><img src="MSFT_logo_rgb_C-Gray.png" width="300px"></a>
 
-## Code of Conduct
-BlackboxNLP 2019 adheres to the following [code of conduct](https://blackboxnlp.github.io/code.html). 
+## Anti-Harassment Policy
+BlackboxNLP 2019 adheres to the [ACL Anti-Harassment Policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy).
