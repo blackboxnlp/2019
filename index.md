@@ -97,7 +97,7 @@ but will not be included in the proceedings.
 
 Both papers and abstracts should follow the official ACL 2019 style guidelines and should be submitted via softconf:
 
-[https://www.softconf.com/acl2019/blackboxnlp.](https://www.softconf.com/acl2019/blackboxnlp.)
+[https://www.softconf.com/acl2019/blackboxnlp](https://www.softconf.com/acl2019/blackboxnlp)
 
 Accepted submissions will be presented at the workshop: most as posters, some as oral presentations (determined by the program committee).
 
