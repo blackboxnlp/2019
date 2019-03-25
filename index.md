@@ -51,7 +51,7 @@ them more interpretable (e.g., Palanki et al., 2017);
 - Scaling up neural network analysis techniques developed in the
 connectionist literature in the 1990s (Elman, 1991);
 - Testing whether interpretable information can be decoded from
-intermediate representations (e.g., Adi et al.,  2017; Chrupa?a et al.,
+intermediate representations (e.g., Adi et al.,  2017; Chrupala et al.,
 2017; Hupkes et al., 2017);
 - Translating insights on neural networks interpretation from the vision
 domain (e.g., Zeiler & Fergus, 2014) to language;
