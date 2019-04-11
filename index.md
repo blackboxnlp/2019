@@ -123,7 +123,7 @@ multilayer neural networks. His work has appeared in venues such as *Computation
 ### Yonatan Belinkov
 Yonatan Belinkov (belinkov@seas.harvard.edu) is a Postdoctoral Fellow at the Harvard School of Engineering and Applied Sciences (SEAS) and the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL). 
 His recent research focuses on representations of language in neural network models, with applications in machine translation and speech recognition. 
-His research has been published at ACL, EMNLP, TACL, ICLR, and NIPS. 
+His research has been published at ACL, EMNLP, TACL, ICLR, and NeurIPS. 
 His PhD dissertation at MIT analyzed internal language representations in deep learning models. 
 
 ### Dieuwke Hupkes
