@@ -80,7 +80,7 @@ We accept two types of papers
 
 - Archival papers. These are papers reporting on completed, original and
 unpublished research, with maximum length of 8 pages + references. Papers
-shorter than this maximum are also welcome. Accepted papers are expected to
+shorter than this maximum are also welcome. An optional appendix may appear after the references in the same pdf file. Accepted papers are expected to
 be presented at the workshop and will be published in the workshop
 proceedings. They should report on obtained results rather than intended
 work. These papers will undergo double-blind peer-review, and should thus
