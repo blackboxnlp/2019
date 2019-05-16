@@ -135,8 +135,11 @@ She authored 5 articles directly relevant to the workshop, one of them published
 
 ## Program committee
 
+- Samira Abnar - University of Amsterdam
 - Željko	Agić	- IT University of Copenhagen
 - Afra Alishiani - Tilburg University
+- Joost Bastings - University of Amsterdam
+- Lisa Beinborn - University of Amsterdam
 - Laurent	Besacier	- Laboratoire d'Informatique de Grenoble
 - Or	Biran	- n-Join
 - Pravesh	Biyani	- IIIT Delhi
