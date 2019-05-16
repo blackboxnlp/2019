@@ -149,6 +149,7 @@ She authored 5 articles directly relevant to the workshop, one of them published
 - Alexander Fraser - University of Munich
 - Richard Futrell - University of California, Irvine
 - Kristina Gulordava - University Pompeu Fabra
+- Antske Fokkens - Vrije Universiteit, Amsterdam
 - John	Hale	- Cornell University and Google DeepMind
 - David	Harwath	- Massachusetts Institute of Technology
 - German Kruszewski - Facebook AI Research
@@ -164,6 +165,7 @@ She authored 5 articles directly relevant to the workshop, one of them published
 - Hassan Sajjad - Qatar Computing Research Institute
 - Naomi Saphra - University of Edinburgh
 - Jan	Šnajder	- University of Zagreb
+- Pia Sommerauer - Vrije Universiteit, Amsterdam
 - Hendrik Strobelt - IBM Research and MIT-IBM Watson AI Lab
 - Adina	Williams	- New York University
 - Fabio Massimo	Zanzotto	- University of Rome Tor Vergata
