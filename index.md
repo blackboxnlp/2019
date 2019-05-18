@@ -7,7 +7,7 @@ Archived information about the 2018 edition: [blackboxnlp.github.io/2018](https:
 ## Important dates
 
 - April 19. Submission deadline (11:59pm Pacific Daylight Savings Time, UTC-7h).
-- May 17. Notification of acceptance.
+- ~~May 17~~ **May 20**. Notification of acceptance.
 - June 3. Camera ready (11:59pm Pacific Daylight Savings Time, UTC-7h).
 - August 1. Workshop.
 
