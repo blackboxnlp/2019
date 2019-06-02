@@ -170,6 +170,7 @@ She authored 5 articles directly relevant to the workshop, one of them published
 - Jan	Šnajder	- University of Zagreb
 - Pia Sommerauer - Vrije Universiteit, Amsterdam
 - Hendrik Strobelt - IBM Research and MIT-IBM Watson AI Lab
+- Francesca Toni - Imperial College London
 - Adina	Williams	- New York University
 - Fabio Massimo	Zanzotto	- University of Rome Tor Vergata
 - Willem	Zuidema	- University of Amsterdam
