@@ -25,10 +25,7 @@ Her research aims at identifying intrinsic limitations of current language model
 She previously worked as a postdoc at the University of Amsterdam and as a research assistant at Fondazione Bruno Kessler. 
 She obtained her PhD from the University of Trento, Italy, in 2013 and was awarded an NWO VENI grant in 2016.
 
-### [Ari Morcos](http://www.arimorcos.com)
-<img src="http://www.arimorcos.com/static/images/FAIR_headshot.jpg" width="100px">
-
-Bio: Ari Morcos is a Research Scientist at Facebook AI Research working on understanding the mechanisms underlying neural network computation and function, and using these insights to build machine learning systems more intelligently. In particular, Ari has worked on understanding the properties predictive of generalization, methods to compare representations across networks, the role of single units in computation, and on strategies to measure abstraction in neural network representations. Previously, he worked at DeepMind in London, and earned his PhD in Neurobiology at Harvard University, using machine learning to study the cortical dynamics underlying evidence accumulation for decision-making.
+### TBA
 
 ## Description
 
