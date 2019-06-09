@@ -132,45 +132,52 @@ She authored 5 articles directly relevant to the workshop, one of them published
 
 ## Program committee
 
-- Samira Abnar - University of Amsterdam
-- Željko	Agić	- IT University of Copenhagen
-- Afra Alishiani - Tilburg University
-- Joost Bastings - University of Amsterdam
-- Lisa Beinborn - University of Amsterdam
-- Laurent	Besacier	- Laboratoire d'Informatique de Grenoble
-- Or	Biran	- n-Join
-- Pravesh	Biyani	- IIIT Delhi
-- Samual Bowman - New York University
-- Bill	Byrne	- University of Cambridge
-- Ewan Dunbar - Universite Paris Diderot
-- Nadir Durrani - Qatar Computing Research Institute
-- Allyson	Ettinger	- University of Maryland
-- Robert	Frank	- Yale University
-- Alexander Fraser - University of Munich
-- Richard Futrell - University of California, Irvine
-- Kristina Gulordava - University Pompeu Fabra
-- Antske Fokkens - Vrije Universiteit, Amsterdam
-- John	Hale	- Cornell University and Google DeepMind
-- David	Harwath	- Massachusetts Institute of Technology
-- German Kruszewski - Facebook AI Research
-- Yair Lakretz - NeuroSpin
-- Miryam de Lhoneux - Uppsala University
-- Nelson F.	Liu	- University of Washington
-- Adam	Lopez	- University of Edinburgh
-- David	Mareček	- Charles University in Prague
-- Paola	Merlo	- University of Geneva
-- Mark Ormerod - Queen's University Belfast
-- Yves	Peirsman	- NLP Town
-- Barbara	Plank	- IT University of Copenhagen
-- Hassan Sajjad - Qatar Computing Research Institute
-- Naomi Saphra - University of Edinburgh
-- Jan	Šnajder	- University of Zagreb
-- Pia Sommerauer - Vrije Universiteit, Amsterdam
-- Hendrik Strobelt - IBM Research and MIT-IBM Watson AI Lab
-- Francesca Toni - Imperial College London
-- Adina	Williams	- New York University
-- Fabio Massimo	Zanzotto	- University of Rome Tor Vergata
-- Willem	Zuidema	- University of Amsterdam
+ - 	Samira Abnar 
+ - 	Željko Agić 
+ - 	Afra Alishahi 
+ - 	Antonios Anastasopoulos 
+ - 	Niranjan Balasubramanian 
+ - 	Joost Bastings 
+ - 	Lisa Beinborn 
+ - 	Laurent Besacier 
+ - 	Or Biran 
+ - 	Samuel R. Bowman 
+ - 	Stergios Chatzikyriakidis 
+ - 	Miryam de Lhoneux 
+ - 	Ewan Dunbar 
+ - 	Jacob Eisenstein 
+ - 	Allyson Ettinger 
+ - 	Antske Fokkens 
+ - 	Robert Frank 
+ - 	Richard Futrell 
+ - 	Sharon Goldwater 
+ - 	Kristina Gulordava 
+ - 	David Harwath 
+ - 	Germán Kruszewski 
+ - 	Yair Lakretz 
+ - 	Shalom Lappin 
+ - 	Jindřich Libovický 
+ - 	Nelson F. Liu 
+ - 	Pranava Madhyastha 
+ - 	David Mareček 
+ - 	Paola Merlo 
+ - 	Raymond Mooney 
+ - 	Sebastian Padó 
+ - 	Yves Peirsman 
+ - 	Adam Poliak 
+ - 	Rudolf Rosa 
+ - 	Carolyn Rose 
+ - 	Hassan Sajjad 
+ - 	Wojciech Samek 
+ - 	Naomi Saphra 
+ - 	Rico Sennrich 
+ - 	Pia Sommerauer 
+ - 	György Szaszák 
+ - 	Francesca Toni 
+ - 	Adina Williams 
+ - 	Roberto Zamparelli 
+ - 	Fabio Massimo Zanzotto 
+ - 	Willem Zuidema 
 
 
 ## Sponsors
