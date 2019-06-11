@@ -36,6 +36,7 @@ Oral presentation session 2
 
 Poster session 1
 ----------------
+Archival papers:
 - _Transcoding compositionally: using attention to find more generalizable solutions_. Kris Korrel, Dieuwke Hupkes, Verna Dankers and Elia Bruni
 - _Sentiment analysis is not solved! Assessing and probing sentiment classification_. Jeremy Barnes, Lilja Øvrelid and Erik Velldal
 - _Second-order Co-occurrence Sensitivity of Skip-Gram with Negative Sampling_. Dominik Schlechtweg, Cennet Oguz and Sabine Schulte im Walde
@@ -46,6 +47,16 @@ Poster session 1
 - _Analyzing the Structure of Attention in a Transformer Language Model_. Jesse Vig and Yonatan Belinkov
 - _Detecting Political Bias in News Articles Using Headline Attention_. Rama Rohit Reddy Gangula, Suma Reddy Duggenpudi and Radhika Mamidi
 - _Testing the Generalization Power of Neural Network Models Across NLI Benchmarks_. Aarne Talman and Stergios Chatzikyriakidis
+Extended abstracts:
+- _(Un)natural word-order biases in deep agent architectures_. Rahma Chaabouni, Evgeny Kharitonov, Emmanuel Dupoux and Marco Baroni
+- _Why does a CNN predict this class? Interpreting Convolutional Neural Networks for Text Classification_. Piyawat Lertvittayakumjorn and Francesca Toni 
+- _State-Regularized Recurrent Neural Networks_. Cheng Wang and Mathias Niepert 
+- _Additional evidences that BERT learn syntactic structures_. Ganesh Jawahar, Benoît Sagot and Djamé Seddah 
+- _Neural Networks as Explicit Word-Based Rules_. Jindřich Libovický 
+- _Neural Pathways: A Method of Abstraction for Deep Neural Model Inspection and Comparison_. James Fiacco, Samridhi Choudhary and Carolyn Rose 
+- _Can we Explain Natural Language Inference Decisions taken with Neural Networks? Inference Rules in Distributed Representations_. Fabio Massimo Zanzotto and Lorenzo Ferrone 
+- _Visualizing Deep Neural Networks for Speech Recognition with Learned Topographic Filter Maps_. Andreas Krug and Sebastian Stober
+
 
 Poster session 2
 ----------------
@@ -60,4 +71,17 @@ Poster session 2
 - _Finding Hierarchical Structure in Neural Stacks Using Unsupervised Parsing_. William Merrill, Lenny Khazan, Noah Amsel, Yiding Hao, Simon Mendelsohn and Robert Frank
 - _Adversarial Attack on Sentiment Classification_. Yi-Ting Tsai, Min-Chu Yang and Han-Yu Cheni
 - _Open Sesame: Getting Inside BERT’s Linguistic Knowledge_. Yongjie Lin, Yi Chern Tan and Robert Frank
+- _Inducing syntactic trees from BERT representation_. Rudolf Rosa and David Mareček
+- _Exploring Universal Sentence Encoders' ability to learn cause-and-effects reasoning using a new precedence classification probing task_. Yochay Gurman and Reut Tsarfaty
+- _Interactive White-Box Models through Collaborative Semantic Inference_. Sebastian Gehrmann, Hendrik Strobelt, Robert Krüger, Hanspeter Pfister and Alexander Rush 
+- _Do LSTMs Learn Long-Distance Dependencies From Constituents?_. Naomi Saphra and Adam Lopez
+- _Learning to make accuracy judgments from intermediate and final outputs of a neural network for a question answering task_. Chad DeChant, Seungwook Han and Hod Lipson 
+- _Some linguistic correlates of gradients and attention weights in BERT_. Matthijs Westera
+- _Towards Understanding Position Embeddings_. Rishi Bommasani and Claire Cardie
+- _On the Importance of Delexicalization for Fact Verification_. Sandeep Suntwal, Mithun Paul, Rebecca Sharp and Mihai Surdeanu
+
+
+
+
+
 
