@@ -47,6 +47,7 @@ Archival papers:
 - _Analyzing the Structure of Attention in a Transformer Language Model_. Jesse Vig and Yonatan Belinkov
 - _Detecting Political Bias in News Articles Using Headline Attention_. Rama Rohit Reddy Gangula, Suma Reddy Duggenpudi and Radhika Mamidi
 - _Testing the Generalization Power of Neural Network Models Across NLI Benchmarks_. Aarne Talman and Stergios Chatzikyriakidis
+
 Extended abstracts:
 - _(Un)natural word-order biases in deep agent architectures_. Rahma Chaabouni, Evgeny Kharitonov, Emmanuel Dupoux and Marco Baroni
 - _Why does a CNN predict this class? Interpreting Convolutional Neural Networks for Text Classification_. Piyawat Lertvittayakumjorn and Francesca Toni 
@@ -60,6 +61,7 @@ Extended abstracts:
 
 Poster session 2
 ----------------
+Archival papers:
 - _Modeling Paths for Explainable Knowledge Base Completion_. Josua Stadelmaier and Sebastian Padó
 - _Probing word and sentence embeddings for long-distance dependencies effects in French and English_. Paola Merlo
 - _Derivational Morphological Relations in Word Embeddings_. Tomáš Musil, Jonáš Vidra and David MarecˇekMareček
@@ -71,6 +73,8 @@ Poster session 2
 - _Finding Hierarchical Structure in Neural Stacks Using Unsupervised Parsing_. William Merrill, Lenny Khazan, Noah Amsel, Yiding Hao, Simon Mendelsohn and Robert Frank
 - _Adversarial Attack on Sentiment Classification_. Yi-Ting Tsai, Min-Chu Yang and Han-Yu Cheni
 - _Open Sesame: Getting Inside BERT’s Linguistic Knowledge_. Yongjie Lin, Yi Chern Tan and Robert Frank
+
+Extended abstrcats:
 - _Inducing syntactic trees from BERT representation_. Rudolf Rosa and David Mareček
 - _Exploring Universal Sentence Encoders' ability to learn cause-and-effects reasoning using a new precedence classification probing task_. Yochay Gurman and Reut Tsarfaty
 - _Interactive White-Box Models through Collaborative Semantic Inference_. Sebastian Gehrmann, Hendrik Strobelt, Robert Krüger, Hanspeter Pfister and Alexander Rush 
