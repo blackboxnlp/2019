@@ -11,6 +11,24 @@ Archived information about the 2018 edition: [blackboxnlp.github.io/2018](https:
 - June 3. Camera ready (11:59pm Pacific Daylight Savings Time, UTC-7h).
 - August 1. Workshop.
 
+## Workshop program 
+
+| Time         | Program item                                  |
+|--------------|-----------------------------------------------|
+| 09:00-09:10  | Opening remarks                               |
+| 09:10-10:00  | Invited talk 1: [Arianna Bisazza](index.md#arianna-bisazza)|
+| 10:00-11:15  | Poster session 1 (10:30-11 tea break)         |
+| 11:15-12:30  | Oral presentation session 1 (5 x 15 minutes)  |
+| 12:30-14:00  | Lunch                                         |
+| 14:00-14:50  | Invited talk 2: TBA                           |
+| 14:50-16:00  | Poster session 2 (15:30-16 tea break)         |
+| 16:00-16:45  | Oral presentation session 2 (3 x 15 minutes)  |
+| 16:45-17:30  | Panel discussion                              |
+| 17:20-17:30  | Best paper announcement and closing remarks   |
+
+
+[Detailed program](program.md)
+
 ## Travel awards
 
 We will have a limited number of travel awards for students whose papers were accepted for publication in the workshop, thanks to generous support from Microsoft, Google and Facebook. We will prioritize students with limited financial resources (e.g., who work in low-income countries or in graduate programs that are not well-funded). A link to the application website will be made available after acceptance notifications have been sent out. The deadline for applications is <b>May 27</b>.
