@@ -11,7 +11,7 @@ Summary of the program
 | 10:00-11:15  | Poster session 1 (10:30-11 tea break)         |
 | 11:15-12:30  | Oral presentation session 1 (5 x 15 minutes)  |
 | 12:30-14:00  | Lunch                                         |
-| 14:00-14:50  | Invited talk 2: Michael F. Bonner             |
+| 14:00-14:50  | Invited talk 2: [Michael F. Bonner](http://michaelfbonner.com/)|
 | 14:50-16:00  | Poster session 2 (15:30-16 tea break)         |
 | 16:00-16:45  | Oral presentation session 2 (3 x 15 minutes)  |
 | 16:45-17:30  | Panel discussion                              |
