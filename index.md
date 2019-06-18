@@ -20,7 +20,7 @@ Archived information about the 2018 edition: [blackboxnlp.github.io/2018](https:
 | 10:00-11:15  | Poster session 1 (10:30-11 tea break)         |
 | 11:15-12:30  | Oral presentation session 1 (5 x 15 minutes)  |
 | 12:30-14:00  | Lunch                                         |
-| 14:00-14:50  | Invited talk 2: TBA                           |
+| 14:00-14:50  | Invited talk 2: [Michael F. Bonner](index.md#michael-bonner)|
 | 14:50-16:00  | Poster session 2 (15:30-16 tea break)         |
 | 16:00-16:45  | Oral presentation session 2 (3 x 15 minutes)  |
 | 16:45-17:30  | Panel discussion                              |
@@ -43,7 +43,10 @@ Her research aims at identifying intrinsic limitations of current language model
 She previously worked as a postdoc at the University of Amsterdam and as a research assistant at Fondazione Bruno Kessler. 
 She obtained her PhD from the University of Trento, Italy, in 2013 and was awarded an NWO VENI grant in 2016.
 
-### TBA
+### [Michael F. Bonner](http://michaelfbonner.com/)
+<img src="https://static1.squarespace.com/static/511abe2be4b0343281bc20c2/t/51b80116e4b0168c35d8527e/1526055235721/IMGP1331.JPG?format=300w" width="100px">
+
+Bio: Michael F. Bonner is an Assistant Professor in the Department of Cognitive Science at Johns Hopkins University. His lab investigates the cognitive and computational neuroscience of natural vision and memory using methods from neuroimaging, computer vision, and natural language processing.
 
 ## Description
 
