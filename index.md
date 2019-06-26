@@ -29,7 +29,7 @@ Archived information about the 2018 edition: [blackboxnlp.github.io/2018](https:
 
 [Detailed program](program.md)
 
-*Poster information*: Provided poster boards are 100x250cm (portrait format). 
+**Poster information**: Provided poster boards are 100x250cm (portrait format). 
 
 
 ## Travel awards
