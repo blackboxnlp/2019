@@ -29,6 +29,9 @@ Archived information about the 2018 edition: [blackboxnlp.github.io/2018](https:
 
 [Detailed program](program.md)
 
+*Poster information*: Provided poster boards are 100x250cm (portrait format). 
+
+
 ## Travel awards
 
 We will have a limited number of travel awards for students whose papers were accepted for publication in the workshop, thanks to generous support from Microsoft, Google and Facebook. We will prioritize students with limited financial resources (e.g., who work in low-income countries or in graduate programs that are not well-funded). A link to the application website will be made available after acceptance notifications have been sent out. The deadline for applications ~~is May 27~~ has passed. 
