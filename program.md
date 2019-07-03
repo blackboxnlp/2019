@@ -14,7 +14,7 @@ Summary of the program
 | 14:00-14:50  | Invited talk 2: [Michael F. Bonner](index.md#michael-f-bonner)|
 | 14:50-16:00  | Poster session 2 (15:30-16 tea break)         |
 | 16:00-16:45  | Oral presentation session 2 (3 x 15 minutes)  |
-| 16:45-17:30  | Panel discussion                              |
+| 16:45-17:30  | Panel discussion (Marco Baroni, Arianna Bisazza, Michael F. Bonner, Ellie Pavlick, Naomi Saphra, Ethan Wilcox)                |
 | 17:20-17:30  | Best paper announcement and closing remarks   |
 
 
