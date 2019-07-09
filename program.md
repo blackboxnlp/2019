@@ -65,7 +65,6 @@ Archival papers:
 - _Modeling Paths for Explainable Knowledge Base Completion_. Josua Stadelmaier and Sebastian Padó
 - _Probing word and sentence embeddings for long-distance dependencies effects in French and English_. Paola Merlo
 - _Derivational Morphological Relations in Word Embeddings_. Tomáš Musil, Jonáš Vidra and David MarecˇekMareček
-- _Investigating sub-word embedding strategies in the morphologically rich and free phrase-order Hungarian_. Bálint Döbrössy, Márton Makrai, Balázs Tarján and György Szaszák
 - _Hierarchical Representation in Neural Language Models: Suppression and Recovery of Expectations_. Ethan Wilcox, Roger Levy and Richard Futrell
 - _Blackbox meets blackbox: Representational Similarity & Stability Analysis of Neural Language Models and Brains_. Samira Abnar, Lisa Beinborn, Rochelle Choenni and Willem Zuidema
 - _An LSTM adaptation study of (un)grammaticality_. Shammur Absar Chowdhury and Roberto Zamparelli
@@ -75,6 +74,7 @@ Archival papers:
 - _Open Sesame: Getting Inside BERT’s Linguistic Knowledge_. Yongjie Lin, Yi Chern Tan and Robert Frank
 
 Extended abstrcats:
+- _Investigating sub-word embedding strategies in the morphologically rich and free phrase-order Hungarian_. Bálint Döbrössy, Márton Makrai, Balázs Tarján and György Szaszák
 - _Inducing syntactic trees from BERT representation_. Rudolf Rosa and David Mareček
 - _Exploring Universal Sentence Encoders' ability to learn cause-and-effects reasoning using a new precedence classification probing task_. Yochay Gurman and Reut Tsarfaty
 - _Interactive White-Box Models through Collaborative Semantic Inference_. Sebastian Gehrmann, Hendrik Strobelt, Robert Krüger, Hanspeter Pfister and Alexander Rush 
