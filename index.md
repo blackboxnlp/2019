@@ -31,6 +31,7 @@ Archived information about the 2018 edition: [blackboxnlp.github.io/2018](https:
 
 **Poster information**: Provided poster boards are 100x250cm (portrait format). 
 
+**Oral presentations** Should be 12 minutes long + 3 minutes for questions.
 
 ## Travel awards
 
