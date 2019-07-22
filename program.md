@@ -73,7 +73,7 @@ Archival papers:
 - _Adversarial Attack on Sentiment Classification_. Yi-Ting Tsai, Min-Chu Yang and Han-Yu Cheni
 - _Open Sesame: Getting Inside BERT’s Linguistic Knowledge_. Yongjie Lin, Yi Chern Tan and Robert Frank
 
-Extended abstrcats:
+Extended abstracts:
 - _Investigating sub-word embedding strategies in the morphologically rich and free phrase-order Hungarian_. Bálint Döbrössy, Márton Makrai, Balázs Tarján and György Szaszák
 - _Inducing syntactic trees from BERT representation_. Rudolf Rosa and David Mareček
 - _Exploring Universal Sentence Encoders' ability to learn cause-and-effects reasoning using a new precedence classification probing task_. Yochay Gurman and Reut Tsarfaty
