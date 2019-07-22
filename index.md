@@ -13,8 +13,6 @@ Archived information about the 2018 edition: [blackboxnlp.github.io/2018](https:
 
 ## Workshop program 
 
-[Detailed program](program.md)
-
 | Time         | Program item                                  |
 |--------------|-----------------------------------------------|
 | 09:00-09:10  | Opening remarks                               |
@@ -28,10 +26,11 @@ Archived information about the 2018 edition: [blackboxnlp.github.io/2018](https:
 | 16:45-17:30  | Panel discussion                              |
 | 17:20-17:30  | Best paper announcement and closing remarks   |
 
-
 **Poster information**: Provided poster boards are 100x250cm (portrait format). 
 
 **Oral presentations** should be 12 minutes long + 3 minutes for questions.
+
+A detailed version of the program is available [here](program.md).
 
 ## Travel awards
 
