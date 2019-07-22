@@ -13,6 +13,8 @@ Archived information about the 2018 edition: [blackboxnlp.github.io/2018](https:
 
 ## Workshop program 
 
+[Detailed program](program.md)
+
 | Time         | Program item                                  |
 |--------------|-----------------------------------------------|
 | 09:00-09:10  | Opening remarks                               |
@@ -26,8 +28,6 @@ Archived information about the 2018 edition: [blackboxnlp.github.io/2018](https:
 | 16:45-17:30  | Panel discussion                              |
 | 17:20-17:30  | Best paper announcement and closing remarks   |
 
-
-[Detailed program](program.md)
 
 **Poster information**: Provided poster boards are 100x250cm (portrait format). 
 
