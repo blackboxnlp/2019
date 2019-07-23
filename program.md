@@ -31,7 +31,7 @@ Oral presentation session 2
 
 - 16:00-16:15 _GEval: Tool for Debugging NLP Datasets and Models_. Filip Graliński, Anna Wróblewska, Tomasz Stanisławek, Kamil Grabowski and Tomasz Górecki
 - 16:15-16:30 _From Balustrades to Pierre Vinken: Looking for Syntax in Transformer Self- Attentions_. David Mareček and Rudolf Rosa. 
-16:30-16:45 _What does BERT look at? An Analysis of BERT’s Attention_. Kevin Clark, Urvashi Khandelwal, Omer Levy and Christopher D. Manning. 
+- 16:30-16:45 _What does BERT look at? An Analysis of BERT’s Attention_. Kevin Clark, Urvashi Khandelwal, Omer Levy and Christopher D. Manning. 
 
 
 Poster session 1
