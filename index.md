@@ -46,6 +46,15 @@ Her research aims at identifying intrinsic limitations of current language model
 She previously worked as a postdoc at the University of Amsterdam and as a research assistant at Fondazione Bruno Kessler. 
 She obtained her PhD from the University of Trento, Italy, in 2013 and was awarded an NWO VENI grant in 2016.
 
+**Understanding syntactic transfer in multilingual NLP models**
+
+Recent work has shown that state-of-the-art models of language and translation can be successfully trained on multiple languages simultaneously without changes to the underlying neural network architectures. Besides the practical advantage of having fewer models to maintain, this approach has the potential to dramatically improve the quality of many NLP applications in low-resource languages by exploiting cross-linguistic commonalities.
+As a result the adoption of multilingual models is quickly catching on, however the mechanisms explaining knowledge sharing in these models remain largely unknown:
+What kind of knowledge is really shared among languages? Does multilingual training mostly lead to better semantic modeling of the lexicon or does it also enable the sharing of more abstract grammatical categories? And furthermore, what are the conditions for cross-lingual syntactic transfer to happen at various levels?
+This talk will present some answers to these questions based on various models and probing tasks, and discuss the future of multilinguality in NLP.
+
+
+
 ### [Michael F. Bonner](http://michaelfbonner.com/)
 <img src="https://static1.squarespace.com/static/511abe2be4b0343281bc20c2/t/51b80116e4b0168c35d8527e/1526055235721/IMGP1331.JPG?format=300w" width="100px">
 
@@ -219,4 +228,4 @@ She authored 5 articles directly relevant to the workshop, one of them published
 <a href="https://www.microsoft.com/en-us/research"><img src="MSFT_logo_rgb_C-Gray.png" width="300px"></a>
 
 ## Anti-Harassment Policy
-BlackboxNLP 2019 adheres to the [ACL Anti-Harassment Policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy).
+BlackboxNLP 2019 adheres to the [ACL Anti-Harassment Policy](https://www.aclweb.org/adminwiki/sphp?title=Anti-Harassment_Policy).
