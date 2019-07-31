@@ -2,6 +2,8 @@
 
 The second edition of the BlackboxNLP workshop will be collocated with [ACL 2019](http://www.acl2019.org/) in Florence. 
 
+There will be a live stream of the workshop [here](https://www.youtube.com/embed/JEH2fiyjrJU).
+
 Archived information about the 2018 edition: [blackboxnlp.github.io/2018](https://blackboxnlp.github.io/2018/).
 
 ## Important dates
