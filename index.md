@@ -13,6 +13,9 @@ Archived information about the 2018 edition: [blackboxnlp.github.io/2018](https:
 - ~~June 3~~. Camera ready (11:59pm Pacific Daylight Savings Time, UTC-7h).
 - August 1. Workshop.
 
+## Proceedings
+The proceedings of the workshop can be found in the [ACL Anthology](https://www.aclweb.org/anthology/volumes/W19-48/).
+
 ## Workshop program 
 
 A detailed version of the program is available [here](program.md).
